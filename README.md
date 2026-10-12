@@ -220,5 +220,5 @@ Entities can perform standard single-cell moves (orthogonal and diagonal) or exe
 ## Author
 
 **Ege Gülen**  
-- GitHub: [@your-username](https://github.com/your-username)  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [@EgeGulen13](https://github.com/EgeGulen13)  
+- LinkedIn: [linkedin.com/in/ege-gulen](https://www.linkedin.com/in/ege-gülen-71a66a280)
