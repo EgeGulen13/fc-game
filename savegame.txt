@@ -1,0 +1,5 @@
+Present,3,10,10,10
+ApexPredator,3,4,1,1,src/assets/polar bear.png
+Predator,1,3,0,0,src/assets/cheetah.png
+Prey,0,7,-1,1,src/assets/deer.png
+Food,4,7,0,0,src/assets/grass.png

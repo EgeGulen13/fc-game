@@ -1,0 +1,1863 @@
+[07-01-2026 11:50:37] ==========================================
+[07-01-2026 11:50:37] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+[07-01-2026 11:50:39] -----Round 1 started!-----
+[07-01-2026 11:50:39] Prey moved (4, 0) to (3, 0)!
+[07-01-2026 11:50:39] Player (Predator) moved (6, 8) to (6, 6)!
+[07-01-2026 11:50:39] ApexPredator moved (9, 9) to (8, 8)!
+[07-01-2026 11:50:39] -----Round 1 ended!-----
+[07-01-2026 11:50:39] -----Round 2 started!-----
+[07-01-2026 11:50:39] Prey moved (3, 0) to (2, 0)!
+[07-01-2026 11:50:39] Player (Predator) moved (6, 6) to (5, 5)!
+[07-01-2026 11:50:39] ApexPredator moved (8, 8) to (7, 7)!
+[07-01-2026 11:50:39] -----Round 2 ended!-----
+[07-01-2026 11:50:40] -----Round 3 started!-----
+[07-01-2026 11:50:40] Prey moved (2, 0) to (1, 0)!
+[07-01-2026 11:50:40] Player (Predator) moved (5, 5) to (4, 4)!
+[07-01-2026 11:50:40] ApexPredator moved (7, 7) to (6, 6)!
+[07-01-2026 11:50:40] -----Round 3 ended!-----
+[07-01-2026 11:50:41] -----Round 4 started!-----
+[07-01-2026 11:50:41] Prey moved (1, 0) to (0, 0)!
+[07-01-2026 11:50:41] Player (Predator) moved (4, 4) to (3, 3)!
+[07-01-2026 11:50:41] ApexPredator moved (6, 6) to (5, 5)!
+[07-01-2026 11:50:41] -----Round 4 ended!-----
+[07-01-2026 11:50:41] -----Round 5 started!-----
+[07-01-2026 11:50:41] Prey moved (0, 0) to (0, 0)!
+[07-01-2026 11:50:41] Player (Predator) moved (3, 3) to (2, 2)!
+[07-01-2026 11:50:41] ApexPredator moved (5, 5) to (4, 4)!
+[07-01-2026 11:50:41] -----Round 5 ended!-----
+[07-01-2026 11:50:42] -----Round 6 started!-----
+[07-01-2026 11:50:42] Prey moved (0, 0) to (0, 0)!
+[07-01-2026 11:50:42] Player (Predator) moved (2, 2) to (1, 1)!
+[07-01-2026 11:50:42] ApexPredator moved (4, 4) to (3, 3)!
+[07-01-2026 11:50:42] -----Round 6 ended!-----
+[07-01-2026 11:50:43] -----Round 7 started!-----
+[07-01-2026 11:50:43] Prey moved (0, 0) to (0, 1)!
+[07-01-2026 11:50:43] Player (Predator) moved (1, 1) to (0, 0)!
+[07-01-2026 11:50:43] ApexPredator moved (3, 3) to (2, 2)!
+[07-01-2026 11:50:43] -----Round 7 ended!-----
+[07-01-2026 11:50:44] -----Round 8 started!-----
+[07-01-2026 11:50:44] Prey moved (0, 1) to (1, 2)!
+[07-01-2026 11:50:44] Player (Predator) moved (0, 0) to (0, 2)!
+[07-01-2026 11:50:44] ApexPredator moved (2, 2) to (1, 2)!
+[07-01-2026 11:50:44] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 11:50:44] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 11:50:44] -----Round 8 ended!-----
+[07-01-2026 11:50:45] -----Round 9 started!-----
+[07-01-2026 11:50:45] Prey moved (0, 8) to (1, 9)!
+[07-01-2026 11:50:45] Player (Predator) moved (0, 2) to (0, 3)!
+[07-01-2026 11:50:45] ApexPredator moved (1, 2) to (0, 3)!
+[07-01-2026 11:50:45] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 11:50:45] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 11:50:45] -----Round 9 ended!-----
+[07-01-2026 11:50:46] -----Round 10 started!-----
+[07-01-2026 11:50:46] Prey moved (1, 9) to (2, 9)!
+[07-01-2026 11:50:46] Player (Predator) moved (4, 3) to (4, 4)!
+[07-01-2026 11:50:46] ApexPredator moved (0, 3) to (2, 3)!
+[07-01-2026 11:50:46] -----Round 10 ended!-----
+[07-01-2026 11:50:47] -----Round 11 started!-----
+[07-01-2026 11:50:47] Prey moved (2, 9) to (1, 9)!
+[07-01-2026 11:50:47] Player (Predator) moved (4, 4) to (4, 6)!
+[07-01-2026 11:50:47] ApexPredator moved (2, 3) to (3, 4)!
+[07-01-2026 11:50:47] -----Round 11 ended!-----
+[07-01-2026 11:50:47] Game Ended! WINNER: ApexPredator by 2 points!
+[07-01-2026 11:50:47] ==========================================
+[07-01-2026 15:42:59] ==========================================
+[07-01-2026 15:42:59] New Game: Era: Present, TotalRounds: 14, User Role: Predator
+[07-01-2026 15:43:28] ==========================================
+[07-01-2026 15:43:28] New Game: Era: Present, TotalRounds: 15, User Role: Predator
+[07-01-2026 15:43:35] -----Round 1 started!-----
+[07-01-2026 15:43:35] Prey moved (7, 9) to (5, 9)!
+[07-01-2026 15:43:35] Player (Predator) moved (7, 1) to (7, 2)!
+[07-01-2026 15:43:35] ApexPredator moved (1, 0) to (4, 2)!
+[07-01-2026 15:43:35] -----Round 1 ended!-----
+[07-01-2026 15:43:37] -----Round 2 started!-----
+[07-01-2026 15:43:37] Prey moved (5, 9) to (4, 9)!
+[07-01-2026 15:43:37] Player (Predator) moved (7, 2) to (8, 3)!
+[07-01-2026 15:43:37] ApexPredator moved (4, 2) to (5, 3)!
+[07-01-2026 15:43:37] -----Round 2 ended!-----
+[07-01-2026 15:43:37] -----Round 3 started!-----
+[07-01-2026 15:43:37] Prey moved (4, 9) to (3, 9)!
+[07-01-2026 15:43:37] Player (Predator) moved (8, 3) to (8, 4)!
+[07-01-2026 15:43:37] ApexPredator moved (5, 3) to (6, 4)!
+[07-01-2026 15:43:37] -----Round 3 ended!-----
+[07-01-2026 15:43:38] -----Round 4 started!-----
+[07-01-2026 15:43:38] Prey moved (3, 9) to (2, 9)!
+[07-01-2026 15:43:38] Player (Predator) moved (8, 4) to (8, 5)!
+[07-01-2026 15:43:38] ApexPredator moved (6, 4) to (7, 5)!
+[07-01-2026 15:43:38] -----Round 4 ended!-----
+[07-01-2026 15:43:40] -----Round 5 started!-----
+[07-01-2026 15:43:40] Prey moved (2, 9) to (0, 9)!
+[07-01-2026 15:43:40] Player (Predator) moved (8, 5) to (6, 7)!
+[07-01-2026 15:43:40] ApexPredator moved (7, 5) to (6, 7)!
+[07-01-2026 15:43:40] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 15:43:40] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 15:43:40] -----Round 5 ended!-----
+[07-01-2026 15:43:45] -----Round 6 started!-----
+[07-01-2026 15:43:45] Prey moved (0, 9) to (0, 9)!
+[07-01-2026 15:43:45] Player (Predator) moved (1, 8) to (1, 8)!
+[07-01-2026 15:43:45] ApexPredator moved (6, 7) to (5, 8)!
+[07-01-2026 15:43:45] -----Round 6 ended!-----
+[07-01-2026 15:43:47] -----Round 7 started!-----
+[07-01-2026 15:43:47] Prey moved (0, 9) to (0, 9)!
+[07-01-2026 15:43:47] Player (Predator) moved (1, 8) to (0, 9)!
+[07-01-2026 15:43:47] Player gained 3 points! (Caught Prey)
+[07-01-2026 15:43:47] Prey lost -1 points! (Eaten by Player)
+[07-01-2026 15:43:47] ApexPredator moved (5, 8) to (4, 9)!
+[07-01-2026 15:43:47] -----Round 7 ended!-----
+[07-01-2026 15:43:49] -----Round 8 started!-----
+[07-01-2026 15:43:49] Prey moved (1, 9) to (2, 8)!
+[07-01-2026 15:43:49] Player (Predator) moved (0, 9) to (0, 8)!
+[07-01-2026 15:43:49] ApexPredator moved (4, 9) to (3, 8)!
+[07-01-2026 15:43:49] -----Round 8 ended!-----
+[07-01-2026 15:43:51] -----Round 9 started!-----
+[07-01-2026 15:43:51] Prey moved (2, 8) to (0, 6)!
+[07-01-2026 15:43:51] Player (Predator) moved (0, 8) to (0, 7)!
+[07-01-2026 15:43:51] ApexPredator moved (3, 8) to (0, 6)!
+[07-01-2026 15:43:51] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 15:43:51] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 15:43:51] -----Round 9 ended!-----
+[07-01-2026 15:43:52] -----Round 10 started!-----
+[07-01-2026 15:43:52] Prey moved (1, 8) to (2, 9)!
+[07-01-2026 15:43:52] Player (Predator) moved (0, 7) to (2, 5)!
+[07-01-2026 15:43:52] ApexPredator moved (0, 6) to (1, 5)!
+[07-01-2026 15:43:52] -----Round 10 ended!-----
+[07-01-2026 15:43:54] -----Round 11 started!-----
+[07-01-2026 15:43:54] Prey moved (2, 9) to (1, 9)!
+[07-01-2026 15:43:54] Player (Predator) moved (2, 5) to (4, 3)!
+[07-01-2026 15:43:54] ApexPredator moved (1, 5) to (2, 4)!
+[07-01-2026 15:43:54] -----Round 11 ended!-----
+[07-01-2026 15:43:55] -----Round 12 started!-----
+[07-01-2026 15:43:55] Prey moved (1, 9) to (0, 9)!
+[07-01-2026 15:43:55] Player (Predator) moved (4, 3) to (5, 2)!
+[07-01-2026 15:43:55] ApexPredator moved (2, 4) to (3, 3)!
+[07-01-2026 15:43:55] -----Round 12 ended!-----
+[07-01-2026 15:43:56] -----Round 13 started!-----
+[07-01-2026 15:43:56] Prey moved (0, 9) to (0, 9)!
+[07-01-2026 15:43:56] Player (Predator) moved (5, 2) to (6, 1)!
+[07-01-2026 15:43:56] ApexPredator moved (3, 3) to (6, 1)!
+[07-01-2026 15:43:56] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 15:43:56] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 15:43:56] -----Round 13 ended!-----
+[07-01-2026 15:43:59] -----Round 14 started!-----
+[07-01-2026 15:43:59] Prey moved (0, 9) to (0, 9)!
+[07-01-2026 15:43:59] Player (Predator) moved (7, 4) to (6, 5)!
+[07-01-2026 15:43:59] ApexPredator moved (6, 1) to (6, 2)!
+[07-01-2026 15:43:59] -----Round 14 ended!-----
+[07-01-2026 15:44:06] -----Round 15 started!-----
+[07-01-2026 15:44:06] Prey moved (0, 9) to (0, 9)!
+[07-01-2026 15:44:06] Player (Predator) moved (6, 5) to (5, 4)!
+[07-01-2026 15:44:06] ApexPredator moved (6, 2) to (5, 3)!
+[07-01-2026 15:44:06] -----Round 15 ended!-----
+[07-01-2026 15:44:06] Game Ended! WINNER: ApexPredator by 3 points!
+[07-01-2026 15:44:06] ==========================================
+[07-01-2026 15:44:41] ==========================================
+[07-01-2026 15:44:41] New Game: Era: Future, TotalRounds: 15, User Role: Predator
+[07-01-2026 15:44:44] -----Round 1 started!-----
+[07-01-2026 15:44:44] Prey moved (9, 1) to (6, 0)!
+[07-01-2026 15:44:44] Player (Predator) moved (6, 9) to (8, 7)!
+[07-01-2026 15:44:44] ApexPredator moved (0, 5) to (3, 2)!
+[07-01-2026 15:44:44] -----Round 1 ended!-----
+[07-01-2026 15:44:45] -----Round 2 started!-----
+[07-01-2026 15:44:45] Prey moved (6, 0) to (7, 0)!
+[07-01-2026 15:44:45] Player (Predator) moved (8, 7) to (8, 6)!
+[07-01-2026 15:44:45] ApexPredator moved (3, 2) to (4, 1)!
+[07-01-2026 15:44:45] -----Round 2 ended!-----
+[07-01-2026 15:44:48] -----Round 3 started!-----
+[07-01-2026 15:44:48] Prey moved (7, 0) to (8, 0)!
+[07-01-2026 15:44:48] Player (Predator) moved (8, 6) to (7, 5)!
+[07-01-2026 15:44:48] ApexPredator moved (4, 1) to (5, 0)!
+[07-01-2026 15:44:48] -----Round 3 ended!-----
+[07-01-2026 15:45:30] -----Round 4 started!-----
+[07-01-2026 15:45:30] Prey moved (8, 0) to (9, 3)!
+[07-01-2026 15:45:30] Player (Predator) moved (7, 5) to (5, 3)!
+[07-01-2026 15:45:30] ApexPredator moved (5, 0) to (5, 1)!
+[07-01-2026 15:45:30] -----Round 4 ended!-----
+[07-01-2026 15:45:34] -----Round 5 started!-----
+[07-01-2026 15:45:34] Prey moved (9, 3) to (9, 2)!
+[07-01-2026 15:45:34] Player (Predator) moved (5, 3) to (6, 4)!
+[07-01-2026 15:45:34] ApexPredator moved (5, 1) to (6, 4)!
+[07-01-2026 15:45:34] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 15:45:34] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 15:45:34] -----Round 5 ended!-----
+[07-01-2026 15:45:37] -----Round 6 started!-----
+[07-01-2026 15:45:37] Prey moved (9, 2) to (9, 1)!
+[07-01-2026 15:45:37] Player (Predator) moved (7, 5) to (8, 4)!
+[07-01-2026 15:45:37] ApexPredator moved (6, 4) to (7, 4)!
+[07-01-2026 15:45:38] -----Round 6 ended!-----
+[07-01-2026 15:45:39] -----Round 7 started!-----
+[07-01-2026 15:45:39] Prey moved (9, 1) to (6, 0)!
+[07-01-2026 15:45:39] Player (Predator) moved (8, 4) to (9, 2)!
+[07-01-2026 15:45:39] ApexPredator moved (7, 4) to (8, 3)!
+[07-01-2026 15:45:39] -----Round 7 ended!-----
+[07-01-2026 15:45:41] -----Round 8 started!-----
+[07-01-2026 15:45:41] Prey moved (6, 0) to (5, 0)!
+[07-01-2026 15:45:41] Player (Predator) moved (9, 2) to (8, 1)!
+[07-01-2026 15:45:41] ApexPredator moved (8, 3) to (8, 2)!
+[07-01-2026 15:45:41] -----Round 8 ended!-----
+[07-01-2026 15:45:42] -----Round 9 started!-----
+[07-01-2026 15:45:42] Prey moved (5, 0) to (4, 0)!
+[07-01-2026 15:45:42] Player (Predator) moved (8, 1) to (7, 0)!
+[07-01-2026 15:45:42] ApexPredator moved (8, 2) to (7, 0)!
+[07-01-2026 15:45:42] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 15:45:42] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 15:45:42] -----Round 9 ended!-----
+[07-01-2026 15:45:43] -----Round 10 started!-----
+[07-01-2026 15:45:43] Prey moved (4, 0) to (1, 3)!
+[07-01-2026 15:45:43] Player (Predator) moved (0, 2) to (2, 0)!
+[07-01-2026 15:45:43] ApexPredator moved (7, 0) to (6, 0)!
+[07-01-2026 15:45:43] -----Round 10 ended!-----
+[07-01-2026 15:45:44] -----Round 11 started!-----
+[07-01-2026 15:45:44] Prey moved (1, 3) to (2, 4)!
+[07-01-2026 15:45:44] Player (Predator) moved (2, 0) to (1, 1)!
+[07-01-2026 15:45:44] ApexPredator moved (6, 0) to (5, 1)!
+[07-01-2026 15:45:44] -----Round 11 ended!-----
+[07-01-2026 15:45:45] -----Round 12 started!-----
+[07-01-2026 15:45:45] Prey moved (2, 4) to (3, 5)!
+[07-01-2026 15:45:45] Player (Predator) moved (1, 1) to (1, 2)!
+[07-01-2026 15:45:45] ApexPredator moved (5, 1) to (4, 2)!
+[07-01-2026 15:45:45] -----Round 12 ended!-----
+[07-01-2026 15:45:47] -----Round 13 started!-----
+[07-01-2026 15:45:47] Prey moved (3, 5) to (6, 8)!
+[07-01-2026 15:45:47] Player (Predator) moved (1, 2) to (3, 4)!
+[07-01-2026 15:45:47] ApexPredator moved (4, 2) to (3, 4)!
+[07-01-2026 15:45:47] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 15:45:47] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 15:45:47] -----Round 13 ended!-----
+[07-01-2026 15:45:50] -----Round 14 started!-----
+[07-01-2026 15:45:50] Prey moved (6, 8) to (5, 7)!
+[07-01-2026 15:45:50] Player (Predator) moved (8, 7) to (7, 8)!
+[07-01-2026 15:45:50] ApexPredator moved (3, 4) to (4, 5)!
+[07-01-2026 15:45:50] -----Round 14 ended!-----
+[07-01-2026 15:45:51] -----Round 15 started!-----
+[07-01-2026 15:45:51] Prey moved (5, 7) to (6, 8)!
+[07-01-2026 15:45:51] Player (Predator) moved (7, 8) to (6, 7)!
+[07-01-2026 15:45:51] ApexPredator moved (4, 5) to (5, 6)!
+[07-01-2026 15:45:51] -----Round 15 ended!-----
+[07-01-2026 15:45:51] Game Ended! WINNER: ApexPredator by 3 points!
+[07-01-2026 15:45:51] ==========================================
+[07-01-2026 15:45:57] ==========================================
+[07-01-2026 15:45:57] New Game: Era: Present, TotalRounds: 15, User Role: Predator
+[07-01-2026 15:46:08] -----Round 1 started!-----
+[07-01-2026 15:46:08] Prey moved (1, 7) to (3, 5)!
+[07-01-2026 15:46:08] Player (Predator) moved (2, 7) to (4, 5)!
+[07-01-2026 15:46:08] ApexPredator moved (3, 8) to (3, 5)!
+[07-01-2026 15:46:08] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 15:46:08] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 15:46:08] -----Round 1 ended!-----
+[07-01-2026 15:46:10] -----Round 2 started!-----
+[07-01-2026 15:46:10] Prey moved (8, 5) to (9, 4)!
+[07-01-2026 15:46:10] Player (Predator) moved (4, 5) to (6, 3)!
+[07-01-2026 15:46:10] ApexPredator moved (3, 5) to (4, 4)!
+[07-01-2026 15:46:10] -----Round 2 ended!-----
+[07-01-2026 15:46:12] -----Round 3 started!-----
+[07-01-2026 15:46:12] Prey moved (9, 4) to (9, 3)!
+[07-01-2026 15:46:12] Player (Predator) moved (6, 3) to (7, 3)!
+[07-01-2026 15:46:12] ApexPredator moved (4, 4) to (5, 3)!
+[07-01-2026 15:46:12] -----Round 3 ended!-----
+[07-01-2026 15:46:14] -----Round 4 started!-----
+[07-01-2026 15:46:14] Prey moved (9, 3) to (9, 2)!
+[07-01-2026 15:46:14] Player (Predator) moved (7, 3) to (8, 2)!
+[07-01-2026 15:46:14] ApexPredator moved (5, 3) to (6, 2)!
+[07-01-2026 15:46:14] -----Round 4 ended!-----
+[07-01-2026 15:46:15] -----Round 5 started!-----
+[07-01-2026 15:46:15] Prey moved (9, 2) to (7, 0)!
+[07-01-2026 15:46:15] Player (Predator) moved (8, 2) to (9, 2)!
+[07-01-2026 15:46:15] ApexPredator moved (6, 2) to (7, 0)!
+[07-01-2026 15:46:15] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 15:46:15] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 15:46:15] -----Round 5 ended!-----
+[07-01-2026 15:47:05] -----Round 6 started!-----
+[07-01-2026 15:47:05] Prey moved (2, 7) to (1, 8)!
+[07-01-2026 15:47:05] Player (Predator) moved (9, 2) to (8, 3)!
+[07-01-2026 15:47:05] ApexPredator moved (7, 0) to (8, 1)!
+[07-01-2026 15:47:05] -----Round 6 ended!-----
+[07-01-2026 15:47:06] -----Round 7 started!-----
+[07-01-2026 15:47:06] Prey moved (1, 8) to (0, 9)!
+[07-01-2026 15:47:06] Player (Predator) moved (8, 3) to (7, 4)!
+[07-01-2026 15:47:06] ApexPredator moved (8, 1) to (7, 2)!
+[07-01-2026 15:47:06] -----Round 7 ended!-----
+[07-01-2026 15:47:06] -----Round 8 started!-----
+[07-01-2026 15:47:06] Prey moved (0, 9) to (0, 9)!
+[07-01-2026 15:47:06] Player (Predator) moved (7, 4) to (6, 5)!
+[07-01-2026 15:47:06] ApexPredator moved (7, 2) to (6, 3)!
+[07-01-2026 15:47:06] -----Round 8 ended!-----
+[07-01-2026 15:47:07] -----Round 9 started!-----
+[07-01-2026 15:47:07] Prey moved (0, 9) to (0, 9)!
+[07-01-2026 15:47:07] Player (Predator) moved (6, 5) to (5, 6)!
+[07-01-2026 15:47:07] ApexPredator moved (6, 3) to (5, 6)!
+[07-01-2026 15:47:07] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 15:47:07] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 15:47:07] -----Round 9 ended!-----
+[07-01-2026 15:47:09] -----Round 10 started!-----
+[07-01-2026 15:47:09] Prey moved (0, 9) to (0, 7)!
+[07-01-2026 15:47:09] Player (Predator) moved (8, 4) to (7, 3)!
+[07-01-2026 15:47:09] ApexPredator moved (5, 6) to (6, 5)!
+[07-01-2026 15:47:09] -----Round 10 ended!-----
+[07-01-2026 15:47:10] -----Round 11 started!-----
+[07-01-2026 15:47:10] Prey moved (0, 7) to (0, 6)!
+[07-01-2026 15:47:10] Player (Predator) moved (7, 3) to (6, 3)!
+[07-01-2026 15:47:10] ApexPredator moved (6, 5) to (6, 4)!
+[07-01-2026 15:47:10] -----Round 11 ended!-----
+[07-01-2026 15:47:11] -----Round 12 started!-----
+[07-01-2026 15:47:11] Prey moved (0, 6) to (0, 5)!
+[07-01-2026 15:47:11] Player (Predator) moved (6, 3) to (4, 5)!
+[07-01-2026 15:47:11] ApexPredator moved (6, 4) to (5, 5)!
+[07-01-2026 15:47:11] -----Round 12 ended!-----
+[07-01-2026 15:47:12] -----Round 13 started!-----
+[07-01-2026 15:47:12] Prey moved (0, 5) to (0, 4)!
+[07-01-2026 15:47:12] Player (Predator) moved (4, 5) to (2, 5)!
+[07-01-2026 15:47:12] ApexPredator moved (5, 5) to (2, 5)!
+[07-01-2026 15:47:12] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 15:47:12] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 15:47:12] -----Round 13 ended!-----
+[07-01-2026 15:47:13] -----Round 14 started!-----
+[07-01-2026 15:47:13] Prey moved (0, 4) to (2, 2)!
+[07-01-2026 15:47:13] Player (Predator) moved (4, 1) to (3, 1)!
+[07-01-2026 15:47:13] ApexPredator moved (2, 5) to (2, 4)!
+[07-01-2026 15:47:13] -----Round 14 ended!-----
+[07-01-2026 15:47:14] -----Round 15 started!-----
+[07-01-2026 15:47:14] Prey moved (2, 2) to (1, 3)!
+[07-01-2026 15:47:14] Player (Predator) moved (3, 1) to (2, 2)!
+[07-01-2026 15:47:14] ApexPredator moved (2, 4) to (1, 3)!
+[07-01-2026 15:47:14] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 15:47:14] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 15:47:14] -----Round 15 ended!-----
+[07-01-2026 15:47:14] Game Ended! WINNER: ApexPredator by 5 points!
+[07-01-2026 15:47:14] ==========================================
+[07-01-2026 15:47:33] ==========================================
+[07-01-2026 15:47:33] New Game: Era: Future, TotalRounds: 15, User Role: Predator
+[07-01-2026 19:48:17] ==========================================
+[07-01-2026 19:48:17] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+[07-01-2026 19:48:19] -----Round 1 started!-----
+[07-01-2026 19:48:19] Prey moved (8, 1) to (9, 2)!
+[07-01-2026 19:48:19] Player (Predator) moved (5, 1) to (5, 3)!
+[07-01-2026 19:48:19] ApexPredator moved (0, 6) to (2, 6)!
+[07-01-2026 19:48:19] -----Round 1 ended!-----
+[07-01-2026 19:48:19] -----Round 2 started!-----
+[07-01-2026 19:48:19] Prey moved (9, 2) to (9, 3)!
+[07-01-2026 19:48:19] Player (Predator) moved (5, 3) to (4, 4)!
+[07-01-2026 19:48:19] ApexPredator moved (2, 6) to (3, 5)!
+[07-01-2026 19:48:19] -----Round 2 ended!-----
+[07-01-2026 19:48:19] -----Round 3 started!-----
+[07-01-2026 19:48:19] Prey moved (9, 3) to (9, 4)!
+[07-01-2026 19:48:19] Player (Predator) moved (4, 4) to (4, 4)!
+[07-01-2026 19:48:19] ApexPredator moved (3, 5) to (4, 4)!
+[07-01-2026 19:48:19] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 19:48:19] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 19:48:19] -----Round 3 ended!-----
+[07-01-2026 19:48:20] -----Round 4 started!-----
+[07-01-2026 19:48:20] Prey moved (9, 4) to (9, 5)!
+[07-01-2026 19:48:20] Player (Predator) moved (5, 9) to (5, 9)!
+[07-01-2026 19:48:20] ApexPredator moved (4, 4) to (4, 6)!
+[07-01-2026 19:48:20] -----Round 4 ended!-----
+[07-01-2026 19:48:20] -----Round 5 started!-----
+[07-01-2026 19:48:20] Prey moved (9, 5) to (9, 6)!
+[07-01-2026 19:48:20] Player (Predator) moved (5, 9) to (5, 9)!
+[07-01-2026 19:48:20] ApexPredator moved (4, 6) to (5, 7)!
+[07-01-2026 19:48:20] -----Round 5 ended!-----
+[07-01-2026 19:48:20] -----Round 6 started!-----
+[07-01-2026 19:48:20] Prey moved (9, 6) to (9, 7)!
+[07-01-2026 19:48:20] Player (Predator) moved (5, 9) to (5, 9)!
+[07-01-2026 19:48:20] ApexPredator moved (5, 7) to (5, 8)!
+[07-01-2026 19:48:20] -----Round 6 ended!-----
+[07-01-2026 19:48:20] -----Round 7 started!-----
+[07-01-2026 19:48:20] Prey moved (9, 7) to (9, 8)!
+[07-01-2026 19:48:20] Player (Predator) moved (5, 9) to (5, 9)!
+[07-01-2026 19:48:20] ApexPredator moved (5, 8) to (5, 9)!
+[07-01-2026 19:48:20] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 19:48:20] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 19:48:20] -----Round 7 ended!-----
+[07-01-2026 19:48:21] -----Round 8 started!-----
+[07-01-2026 19:48:21] Prey moved (9, 8) to (9, 9)!
+[07-01-2026 19:48:21] Prey gained 3 points! (Ate Food)
+[07-01-2026 19:48:21] Player (Predator) moved (7, 3) to (7, 3)!
+[07-01-2026 19:48:21] ApexPredator moved (5, 9) to (7, 9)!
+[07-01-2026 19:48:21] -----Round 8 ended!-----
+[07-01-2026 19:48:22] -----Round 9 started!-----
+[07-01-2026 19:48:22] Prey moved (9, 9) to (9, 8)!
+[07-01-2026 19:48:22] Player (Predator) moved (7, 3) to (7, 2)!
+[07-01-2026 19:48:22] ApexPredator moved (7, 9) to (8, 8)!
+[07-01-2026 19:48:22] -----Round 9 ended!-----
+[07-01-2026 19:48:22] -----Round 10 started!-----
+[07-01-2026 19:48:22] Prey moved (9, 8) to (9, 7)!
+[07-01-2026 19:48:22] Player (Predator) moved (7, 2) to (7, 4)!
+[07-01-2026 19:48:22] ApexPredator moved (8, 8) to (9, 7)!
+[07-01-2026 19:48:22] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 19:48:22] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 19:48:22] -----Round 10 ended!-----
+[07-01-2026 19:48:23] -----Round 11 started!-----
+[07-01-2026 19:48:23] Prey moved (1, 2) to (0, 1)!
+[07-01-2026 19:48:23] Player (Predator) moved (7, 4) to (6, 3)!
+[07-01-2026 19:48:23] ApexPredator moved (9, 7) to (8, 6)!
+[07-01-2026 19:48:23] -----Round 11 ended!-----
+[07-01-2026 19:48:23] Game Ended! WINNER: ApexPredator by 3 points!
+[07-01-2026 19:48:23] ==========================================
+[07-01-2026 20:06:24] ==========================================
+[07-01-2026 20:06:24] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+[07-01-2026 20:06:26] -----Round 1 started!-----
+[07-01-2026 20:06:26] Prey moved (7, 4) to (6, 5)!
+[07-01-2026 20:06:26] Prey gained 3 points! (Ate Food)
+[07-01-2026 20:06:26] Player (Predator) moved (7, 2) to (7, 4)!
+[07-01-2026 20:06:26] ApexPredator moved (2, 0) to (3, 1)!
+[07-01-2026 20:06:26] -----Round 1 ended!-----
+[07-01-2026 20:06:27] -----Round 2 started!-----
+[07-01-2026 20:06:27] Prey moved (6, 5) to (5, 6)!
+[07-01-2026 20:06:27] Player (Predator) moved (7, 4) to (6, 5)!
+[07-01-2026 20:06:27] ApexPredator moved (3, 1) to (4, 2)!
+[07-01-2026 20:06:27] -----Round 2 ended!-----
+[07-01-2026 20:06:27] -----Round 3 started!-----
+[07-01-2026 20:06:27] Prey moved (5, 6) to (4, 5)!
+[07-01-2026 20:06:27] Player (Predator) moved (6, 5) to (5, 6)!
+[07-01-2026 20:06:27] ApexPredator moved (4, 2) to (4, 4)!
+[07-01-2026 20:06:27] -----Round 3 ended!-----
+[07-01-2026 20:06:29] -----Round 4 started!-----
+[07-01-2026 20:06:29] Prey moved (4, 5) to (3, 6)!
+[07-01-2026 20:06:29] Player (Predator) moved (5, 6) to (4, 7)!
+[07-01-2026 20:06:29] ApexPredator moved (4, 4) to (3, 5)!
+[07-01-2026 20:06:29] -----Round 4 ended!-----
+[07-01-2026 20:06:30] -----Round 5 started!-----
+[07-01-2026 20:06:30] Prey moved (3, 6) to (2, 7)!
+[07-01-2026 20:06:30] Player (Predator) moved (4, 7) to (3, 8)!
+[07-01-2026 20:06:30] ApexPredator moved (3, 5) to (2, 6)!
+[07-01-2026 20:06:30] -----Round 5 ended!-----
+[07-01-2026 20:06:32] -----Round 6 started!-----
+[07-01-2026 20:06:32] Prey moved (2, 7) to (1, 8)!
+[07-01-2026 20:06:32] Player (Predator) moved (3, 8) to (2, 9)!
+[07-01-2026 20:06:32] ApexPredator moved (2, 6) to (1, 7)!
+[07-01-2026 20:06:32] -----Round 6 ended!-----
+[07-01-2026 20:06:32] -----Round 7 started!-----
+[07-01-2026 20:06:32] Prey moved (1, 8) to (0, 9)!
+[07-01-2026 20:06:32] Player (Predator) moved (2, 9) to (0, 9)!
+[07-01-2026 20:06:32] Player gained 3 points! (Caught Prey)
+[07-01-2026 20:06:32] Prey lost -1 points! (Eaten by Player)
+[07-01-2026 20:06:32] ApexPredator moved (1, 7) to (0, 8)!
+[07-01-2026 20:06:32] -----Round 7 ended!-----
+[07-01-2026 20:06:34] -----Round 8 started!-----
+[07-01-2026 20:06:34] Prey moved (4, 2) to (5, 1)!
+[07-01-2026 20:06:34] Player (Predator) moved (0, 9) to (1, 9)!
+[07-01-2026 20:06:34] ApexPredator moved (0, 8) to (1, 9)!
+[07-01-2026 20:06:34] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 20:06:34] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 20:06:34] -----Round 8 ended!-----
+[07-01-2026 20:06:36] -----Round 9 started!-----
+[07-01-2026 20:06:36] Prey moved (5, 1) to (6, 0)!
+[07-01-2026 20:06:36] Player (Predator) moved (2, 1) to (3, 1)!
+[07-01-2026 20:06:36] ApexPredator moved (1, 9) to (1, 7)!
+[07-01-2026 20:06:36] -----Round 9 ended!-----
+[07-01-2026 20:06:38] -----Round 10 started!-----
+[07-01-2026 20:06:38] Prey moved (6, 0) to (7, 0)!
+[07-01-2026 20:06:38] Player (Predator) moved (3, 1) to (5, 1)!
+[07-01-2026 20:06:38] ApexPredator moved (1, 7) to (2, 6)!
+[07-01-2026 20:06:38] -----Round 10 ended!-----
+[07-01-2026 20:06:38] -----Round 11 started!-----
+[07-01-2026 20:06:38] Prey moved (7, 0) to (8, 0)!
+[07-01-2026 20:06:38] Player (Predator) moved (5, 1) to (6, 1)!
+[07-01-2026 20:06:38] ApexPredator moved (2, 6) to (3, 5)!
+[07-01-2026 20:06:38] -----Round 11 ended!-----
+[07-01-2026 20:06:38] Game Ended! WINNER: TIE! (Predator & Prey) by 2 points!
+[07-01-2026 20:06:38] ==========================================
+[07-01-2026 23:01:29] ==========================================
+[07-01-2026 23:01:29] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+[07-01-2026 23:01:53] -----Round 1 started!-----
+[07-01-2026 23:01:53] Prey moved (7, 1) to (6, 2)!
+[07-01-2026 23:01:53] Player (Predator) moved (4, 6) to (4, 5)!
+[07-01-2026 23:01:53] ApexPredator moved (9, 0) to (8, 1)!
+[07-01-2026 23:01:53] -----Round 1 ended!-----
+[07-01-2026 23:02:04] -----Round 1 started!-----
+[07-01-2026 23:02:04] Prey moved (7, 1) to (6, 2)!
+[07-01-2026 23:02:04] Player (Predator) moved (4, 6) to (4, 4)!
+[07-01-2026 23:02:04] ApexPredator moved (9, 0) to (8, 1)!
+[07-01-2026 23:02:04] -----Round 1 ended!-----
+[07-01-2026 23:18:12] ==========================================
+[07-01-2026 23:18:12] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+[07-01-2026 23:18:16] -----Round 1 started!-----
+[07-01-2026 23:18:16] Prey moved (6, 9) to (7, 9)!
+[07-01-2026 23:18:16] Player (Predator) moved (9, 5) to (8, 6)!
+[07-01-2026 23:18:16] ApexPredator moved (4, 6) to (6, 6)!
+[07-01-2026 23:18:16] -----Round 1 ended!-----
+[07-01-2026 23:18:18] -----Round 2 started!-----
+[07-01-2026 23:18:18] Prey moved (7, 9) to (8, 9)!
+[07-01-2026 23:18:18] Player (Predator) moved (8, 6) to (8, 8)!
+[07-01-2026 23:18:18] ApexPredator moved (6, 6) to (7, 7)!
+[07-01-2026 23:18:18] -----Round 2 ended!-----
+[07-01-2026 23:19:01] -----Round 3 started!-----
+[07-01-2026 23:19:01] Prey moved (8, 9) to (7, 9)!
+[07-01-2026 23:19:01] Player (Predator) moved (8, 8) to (9, 9)!
+[07-01-2026 23:19:01] ApexPredator moved (7, 7) to (7, 8)!
+[07-01-2026 23:19:01] -----Round 3 ended!-----
+[07-01-2026 23:19:03] -----Round 4 started!-----
+[07-01-2026 23:19:03] Prey moved (7, 9) to (6, 8)!
+[07-01-2026 23:19:03] Player (Predator) moved (9, 9) to (9, 9)!
+[07-01-2026 23:19:03] ApexPredator moved (7, 8) to (6, 8)!
+[07-01-2026 23:19:03] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 23:19:03] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 23:19:03] -----Round 4 ended!-----
+[07-01-2026 23:19:04] -----Round 5 started!-----
+[07-01-2026 23:19:04] Prey moved (8, 6) to (9, 5)!
+[07-01-2026 23:19:04] Player (Predator) moved (9, 9) to (9, 7)!
+[07-01-2026 23:19:04] ApexPredator moved (6, 8) to (8, 8)!
+[07-01-2026 23:19:04] -----Round 5 ended!-----
+[07-01-2026 23:19:05] -----Round 6 started!-----
+[07-01-2026 23:19:05] Prey moved (9, 5) to (8, 4)!
+[07-01-2026 23:19:05] Player (Predator) moved (9, 7) to (9, 6)!
+[07-01-2026 23:19:05] ApexPredator moved (8, 8) to (9, 7)!
+[07-01-2026 23:19:05] -----Round 6 ended!-----
+[07-01-2026 23:19:06] -----Round 7 started!-----
+[07-01-2026 23:19:06] Prey moved (8, 4) to (7, 3)!
+[07-01-2026 23:19:06] Player (Predator) moved (9, 6) to (9, 5)!
+[07-01-2026 23:19:06] ApexPredator moved (9, 7) to (9, 6)!
+[07-01-2026 23:19:06] -----Round 7 ended!-----
+[07-01-2026 23:19:07] -----Round 8 started!-----
+[07-01-2026 23:19:07] Prey moved (7, 3) to (6, 2)!
+[07-01-2026 23:19:07] Player (Predator) moved (9, 5) to (8, 4)!
+[07-01-2026 23:19:07] ApexPredator moved (9, 6) to (8, 5)!
+[07-01-2026 23:19:07] -----Round 8 ended!-----
+[07-01-2026 23:19:08] -----Round 9 started!-----
+[07-01-2026 23:19:08] Prey moved (6, 2) to (5, 1)!
+[07-01-2026 23:19:08] Player (Predator) moved (8, 4) to (7, 3)!
+[07-01-2026 23:19:08] ApexPredator moved (8, 5) to (7, 4)!
+[07-01-2026 23:19:08] -----Round 9 ended!-----
+[07-01-2026 23:19:09] -----Round 10 started!-----
+[07-01-2026 23:19:09] Prey moved (5, 1) to (4, 0)!
+[07-01-2026 23:19:09] Player (Predator) moved (7, 3) to (6, 2)!
+[07-01-2026 23:19:09] ApexPredator moved (7, 4) to (6, 3)!
+[07-01-2026 23:19:09] -----Round 10 ended!-----
+[07-01-2026 23:19:09] -----Round 11 started!-----
+[07-01-2026 23:19:09] Prey moved (4, 0) to (3, 1)!
+[07-01-2026 23:19:09] Player (Predator) moved (6, 2) to (5, 1)!
+[07-01-2026 23:19:09] ApexPredator moved (6, 3) to (5, 2)!
+[07-01-2026 23:19:09] -----Round 11 ended!-----
+[07-01-2026 23:19:09] Game Ended! WINNER: ApexPredator by 1 points!
+[07-01-2026 23:19:09] ==========================================
+[07-01-2026 23:19:12] ==========================================
+[07-01-2026 23:19:12] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+[07-01-2026 23:19:13] -----Round 1 started!-----
+[07-01-2026 23:19:13] Prey moved (5, 7) to (6, 8)!
+[07-01-2026 23:19:13] Player (Predator) moved (4, 4) to (4, 6)!
+[07-01-2026 23:19:13] ApexPredator moved (1, 3) to (2, 4)!
+[07-01-2026 23:19:13] -----Round 1 ended!-----
+[07-01-2026 23:19:14] -----Round 2 started!-----
+[07-01-2026 23:19:14] Prey moved (6, 8) to (7, 9)!
+[07-01-2026 23:19:14] Player (Predator) moved (4, 6) to (5, 7)!
+[07-01-2026 23:19:14] ApexPredator moved (2, 4) to (3, 5)!
+[07-01-2026 23:19:14] -----Round 2 ended!-----
+[07-01-2026 23:19:14] -----Round 3 started!-----
+[07-01-2026 23:19:14] Prey moved (7, 9) to (8, 9)!
+[07-01-2026 23:19:14] Prey gained 3 points! (Ate Food)
+[07-01-2026 23:19:14] Player (Predator) moved (5, 7) to (6, 8)!
+[07-01-2026 23:19:14] ApexPredator moved (3, 5) to (4, 6)!
+[07-01-2026 23:19:14] -----Round 3 ended!-----
+[07-01-2026 23:19:15] -----Round 4 started!-----
+[07-01-2026 23:19:15] Prey moved (8, 9) to (9, 8)!
+[07-01-2026 23:19:15] Player (Predator) moved (6, 8) to (8, 8)!
+[07-01-2026 23:19:15] ApexPredator moved (4, 6) to (6, 6)!
+[07-01-2026 23:19:15] -----Round 4 ended!-----
+[07-01-2026 23:19:16] -----Round 5 started!-----
+[07-01-2026 23:19:16] Prey moved (9, 8) to (8, 7)!
+[07-01-2026 23:19:16] Player (Predator) moved (8, 8) to (9, 7)!
+[07-01-2026 23:19:16] ApexPredator moved (6, 6) to (7, 7)!
+[07-01-2026 23:19:16] -----Round 5 ended!-----
+[07-01-2026 23:19:17] -----Round 6 started!-----
+[07-01-2026 23:19:17] Prey moved (8, 7) to (9, 6)!
+[07-01-2026 23:19:17] Player (Predator) moved (9, 7) to (8, 7)!
+[07-01-2026 23:19:17] ApexPredator moved (7, 7) to (8, 7)!
+[07-01-2026 23:19:17] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 23:19:17] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 23:19:17] -----Round 6 ended!-----
+[07-01-2026 23:19:19] -----Round 7 started!-----
+[07-01-2026 23:19:19] Prey moved (9, 6) to (8, 5)!
+[07-01-2026 23:19:19] Player (Predator) moved (2, 9) to (2, 7)!
+[07-01-2026 23:19:19] ApexPredator moved (8, 7) to (8, 5)!
+[07-01-2026 23:19:19] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 23:19:19] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 23:19:19] -----Round 7 ended!-----
+[07-01-2026 23:19:20] -----Round 8 started!-----
+[07-01-2026 23:19:20] Prey moved (6, 0) to (5, 0)!
+[07-01-2026 23:19:20] Player (Predator) moved (2, 7) to (2, 6)!
+[07-01-2026 23:19:20] ApexPredator moved (8, 5) to (7, 4)!
+[07-01-2026 23:19:20] -----Round 8 ended!-----
+[07-01-2026 23:19:20] -----Round 9 started!-----
+[07-01-2026 23:19:20] Prey moved (5, 0) to (4, 0)!
+[07-01-2026 23:19:20] Player (Predator) moved (2, 6) to (2, 5)!
+[07-01-2026 23:19:20] ApexPredator moved (7, 4) to (6, 3)!
+[07-01-2026 23:19:20] -----Round 9 ended!-----
+[07-01-2026 23:19:21] -----Round 10 started!-----
+[07-01-2026 23:19:21] Prey moved (4, 0) to (3, 0)!
+[07-01-2026 23:19:21] Player (Predator) moved (2, 5) to (2, 3)!
+[07-01-2026 23:19:21] ApexPredator moved (6, 3) to (4, 3)!
+[07-01-2026 23:19:21] -----Round 10 ended!-----
+[07-01-2026 23:19:21] -----Round 11 started!-----
+[07-01-2026 23:19:21] Prey moved (3, 0) to (2, 0)!
+[07-01-2026 23:19:21] Player (Predator) moved (2, 3) to (1, 2)!
+[07-01-2026 23:19:21] ApexPredator moved (4, 3) to (3, 2)!
+[07-01-2026 23:19:21] -----Round 11 ended!-----
+[07-01-2026 23:19:21] Game Ended! WINNER: TIE! (ApexPredator & Prey) by 2 points!
+[07-01-2026 23:19:21] ==========================================
+[07-01-2026 23:19:23] ==========================================
+[07-01-2026 23:19:23] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+[07-01-2026 23:19:27] -----Round 1 started!-----
+[07-01-2026 23:19:27] Prey moved (5, 8) to (6, 9)!
+[07-01-2026 23:19:27] Player (Predator) moved (7, 1) to (8, 2)!
+[07-01-2026 23:19:27] ApexPredator moved (3, 5) to (4, 6)!
+[07-01-2026 23:19:27] -----Round 1 ended!-----
+[07-01-2026 23:19:27] -----Round 2 started!-----
+[07-01-2026 23:19:27] Prey moved (6, 9) to (7, 9)!
+[07-01-2026 23:19:27] Player (Predator) moved (8, 2) to (9, 3)!
+[07-01-2026 23:19:27] ApexPredator moved (4, 6) to (5, 7)!
+[07-01-2026 23:19:27] -----Round 2 ended!-----
+[07-01-2026 23:19:28] -----Round 3 started!-----
+[07-01-2026 23:19:28] Prey moved (7, 9) to (8, 8)!
+[07-01-2026 23:19:28] Player (Predator) moved (9, 3) to (9, 5)!
+[07-01-2026 23:19:28] ApexPredator moved (5, 7) to (7, 7)!
+[07-01-2026 23:19:28] -----Round 3 ended!-----
+[07-01-2026 23:19:29] -----Round 4 started!-----
+[07-01-2026 23:19:29] Prey moved (8, 8) to (9, 7)!
+[07-01-2026 23:19:29] Player (Predator) moved (9, 5) to (9, 5)!
+[07-01-2026 23:19:29] ApexPredator moved (7, 7) to (8, 7)!
+[07-01-2026 23:19:29] -----Round 4 ended!-----
+[07-01-2026 23:19:30] -----Round 5 started!-----
+[07-01-2026 23:19:30] Prey moved (9, 7) to (8, 6)!
+[07-01-2026 23:19:30] Prey gained 3 points! (Ate Food)
+[07-01-2026 23:19:30] Player (Predator) moved (9, 5) to (9, 5)!
+[07-01-2026 23:19:30] ApexPredator moved (8, 7) to (8, 6)!
+[07-01-2026 23:19:30] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 23:19:30] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 23:19:30] -----Round 5 ended!-----
+[07-01-2026 23:19:33] -----Round 6 started!-----
+[07-01-2026 23:19:33] Prey moved (3, 5) to (2, 4)!
+[07-01-2026 23:19:33] Player (Predator) moved (9, 5) to (8, 4)!
+[07-01-2026 23:19:33] ApexPredator moved (8, 6) to (8, 4)!
+[07-01-2026 23:19:33] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 23:19:33] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 23:19:33] -----Round 6 ended!-----
+[07-01-2026 23:19:34] -----Round 7 started!-----
+[07-01-2026 23:19:34] Prey moved (2, 4) to (1, 3)!
+[07-01-2026 23:19:34] Player (Predator) moved (4, 3) to (3, 4)!
+[07-01-2026 23:19:34] ApexPredator moved (8, 4) to (7, 4)!
+[07-01-2026 23:19:34] -----Round 7 ended!-----
+[07-01-2026 23:19:35] -----Round 8 started!-----
+[07-01-2026 23:19:35] Prey moved (1, 3) to (0, 2)!
+[07-01-2026 23:19:35] Player (Predator) moved (3, 4) to (2, 3)!
+[07-01-2026 23:19:35] ApexPredator moved (7, 4) to (6, 3)!
+[07-01-2026 23:19:35] -----Round 8 ended!-----
+[07-01-2026 23:19:35] -----Round 9 started!-----
+[07-01-2026 23:19:35] Prey moved (0, 2) to (0, 1)!
+[07-01-2026 23:19:35] Player (Predator) moved (2, 3) to (0, 3)!
+[07-01-2026 23:19:35] ApexPredator moved (6, 3) to (4, 3)!
+[07-01-2026 23:19:35] -----Round 9 ended!-----
+[07-01-2026 23:19:36] -----Round 10 started!-----
+[07-01-2026 23:19:36] Prey moved (0, 1) to (1, 0)!
+[07-01-2026 23:19:36] Player (Predator) moved (0, 3) to (0, 2)!
+[07-01-2026 23:19:36] ApexPredator moved (4, 3) to (3, 2)!
+[07-01-2026 23:19:36] -----Round 10 ended!-----
+[07-01-2026 23:19:37] -----Round 11 started!-----
+[07-01-2026 23:19:37] Prey moved (1, 0) to (2, 0)!
+[07-01-2026 23:19:37] Prey gained 3 points! (Ate Food)
+[07-01-2026 23:19:37] Player (Predator) moved (0, 2) to (1, 1)!
+[07-01-2026 23:19:37] ApexPredator moved (3, 2) to (2, 1)!
+[07-01-2026 23:19:37] -----Round 11 ended!-----
+[07-01-2026 23:19:37] Game Ended! WINNER: Prey by 5 points!
+[07-01-2026 23:19:37] ==========================================
+[07-01-2026 23:19:44] ==========================================
+[07-01-2026 23:19:44] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+[07-01-2026 23:19:46] -----Round 1 started!-----
+[07-01-2026 23:19:46] Prey moved (7, 7) to (8, 8)!
+[07-01-2026 23:19:46] Player (Predator) moved (0, 5) to (2, 5)!
+[07-01-2026 23:19:46] ApexPredator moved (3, 2) to (3, 4)!
+[07-01-2026 23:19:46] -----Round 1 ended!-----
+[07-01-2026 23:19:56] -----Round 2 started!-----
+[07-01-2026 23:19:56] Prey moved (8, 8) to (9, 9)!
+[07-01-2026 23:19:56] Player (Predator) moved (2, 5) to (2, 5)!
+[07-01-2026 23:19:56] ApexPredator moved (3, 4) to (2, 5)!
+[07-01-2026 23:19:56] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 23:19:56] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 23:19:56] -----Round 2 ended!-----
+[07-01-2026 23:29:55] -----Round 3 started!-----
+[07-01-2026 23:29:55] Prey moved (9, 9) to (9, 8)!
+[07-01-2026 23:29:55] Player (Predator) moved (2, 9) to (3, 9)!
+[07-01-2026 23:29:55] ApexPredator moved (2, 5) to (3, 6)!
+[07-01-2026 23:29:55] -----Round 3 ended!-----
+[07-01-2026 23:29:55] -----Round 4 started!-----
+[07-01-2026 23:29:55] Prey moved (9, 8) to (9, 7)!
+[07-01-2026 23:29:55] Player (Predator) moved (3, 9) to (5, 9)!
+[07-01-2026 23:29:55] ApexPredator moved (3, 6) to (4, 7)!
+[07-01-2026 23:29:55] -----Round 4 ended!-----
+[07-01-2026 23:29:56] -----Round 5 started!-----
+[07-01-2026 23:29:56] Prey moved (9, 7) to (9, 6)!
+[07-01-2026 23:29:56] Player (Predator) moved (5, 9) to (6, 9)!
+[07-01-2026 23:29:56] ApexPredator moved (4, 7) to (5, 8)!
+[07-01-2026 23:29:56] -----Round 5 ended!-----
+[07-01-2026 23:29:57] -----Round 6 started!-----
+[07-01-2026 23:29:57] Prey moved (9, 6) to (9, 5)!
+[07-01-2026 23:29:57] Player (Predator) moved (6, 9) to (7, 9)!
+[07-01-2026 23:29:57] ApexPredator moved (5, 8) to (6, 9)!
+[07-01-2026 23:29:57] -----Round 6 ended!-----
+[07-01-2026 23:29:57] -----Round 7 started!-----
+[07-01-2026 23:29:57] Prey moved (9, 5) to (9, 4)!
+[07-01-2026 23:29:57] Player (Predator) moved (7, 9) to (8, 8)!
+[07-01-2026 23:29:57] ApexPredator moved (6, 9) to (7, 8)!
+[07-01-2026 23:29:57] -----Round 7 ended!-----
+[07-01-2026 23:29:58] -----Round 8 started!-----
+[07-01-2026 23:29:58] Prey moved (9, 4) to (9, 3)!
+[07-01-2026 23:29:58] Player (Predator) moved (8, 8) to (9, 7)!
+[07-01-2026 23:29:58] ApexPredator moved (7, 8) to (8, 7)!
+[07-01-2026 23:29:58] -----Round 8 ended!-----
+[07-01-2026 23:29:58] -----Round 9 started!-----
+[07-01-2026 23:29:58] Prey moved (9, 3) to (8, 2)!
+[07-01-2026 23:29:58] Player (Predator) moved (9, 7) to (9, 5)!
+[07-01-2026 23:29:58] ApexPredator moved (8, 7) to (9, 6)!
+[07-01-2026 23:29:58] -----Round 9 ended!-----
+[07-01-2026 23:29:59] -----Round 10 started!-----
+[07-01-2026 23:29:59] Prey moved (8, 2) to (7, 1)!
+[07-01-2026 23:29:59] Player (Predator) moved (9, 5) to (8, 4)!
+[07-01-2026 23:29:59] ApexPredator moved (9, 6) to (8, 5)!
+[07-01-2026 23:29:59] -----Round 10 ended!-----
+[07-01-2026 23:29:59] -----Round 11 started!-----
+[07-01-2026 23:29:59] Prey moved (7, 1) to (6, 0)!
+[07-01-2026 23:29:59] Player (Predator) moved (8, 4) to (7, 3)!
+[07-01-2026 23:29:59] ApexPredator moved (8, 5) to (7, 4)!
+[07-01-2026 23:29:59] -----Round 11 ended!-----
+[07-01-2026 23:29:59] Game Ended! WINNER: ApexPredator by 1 points!
+[07-01-2026 23:29:59] ==========================================
+[07-01-2026 23:31:48] ==========================================
+[07-01-2026 23:31:48] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+[07-01-2026 23:31:49] -----Round 1 started!-----
+[07-01-2026 23:31:49] Prey moved (9, 8) to (8, 9)!
+[07-01-2026 23:31:49] Player (Predator) moved (1, 3) to (3, 3)!
+[07-01-2026 23:31:49] ApexPredator moved (5, 1) to (4, 2)!
+[07-01-2026 23:31:49] -----Round 1 ended!-----
+
+[07-01-2026 23:31:50] -----Round 2 started!-----
+[07-01-2026 23:31:50] Prey moved (8, 9) to (9, 9)!
+[07-01-2026 23:31:50] Player (Predator) moved (3, 3) to (3, 3)!
+[07-01-2026 23:31:50] ApexPredator moved (4, 2) to (3, 3)!
+[07-01-2026 23:31:50] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 23:31:50] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 23:31:50] -----Round 2 ended!-----
+
+[07-01-2026 23:32:42] ==========================================
+[07-01-2026 23:32:42] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+
+[07-01-2026 23:32:43] -----Round 1 started!-----
+[07-01-2026 23:32:43] Prey moved (0, 9) to (0, 8)!
+[07-01-2026 23:32:43] Prey gained 3 points! (Ate Food)
+[07-01-2026 23:32:43] Player (Predator) moved (7, 1) to (7, 3)!
+[07-01-2026 23:32:43] ApexPredator moved (2, 8) to (0, 8)!
+[07-01-2026 23:32:43] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 23:32:43] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 23:32:43] -----Round 1 ended!-----
+
+[07-01-2026 23:32:45] -----Round 2 started!-----
+[07-01-2026 23:32:45] Prey moved (7, 2) to (6, 1)!
+[07-01-2026 23:32:45] Player (Predator) moved (7, 3) to (7, 2)!
+[07-01-2026 23:32:45] ApexPredator moved (0, 8) to (1, 7)!
+[07-01-2026 23:32:45] -----Round 2 ended!-----
+
+[07-01-2026 23:32:46] -----Round 3 started!-----
+[07-01-2026 23:32:46] Prey moved (6, 1) to (5, 0)!
+[07-01-2026 23:32:46] Player (Predator) moved (7, 2) to (6, 1)!
+[07-01-2026 23:32:46] ApexPredator moved (1, 7) to (2, 6)!
+[07-01-2026 23:32:46] -----Round 3 ended!-----
+
+[07-01-2026 23:32:47] -----Round 4 started!-----
+[07-01-2026 23:32:47] Prey moved (5, 0) to (4, 1)!
+[07-01-2026 23:32:47] Player (Predator) moved (6, 1) to (4, 1)!
+[07-01-2026 23:32:47] Player gained 3 points! (Caught Prey)
+[07-01-2026 23:32:47] Prey lost -1 points! (Eaten by Player)
+[07-01-2026 23:32:47] ApexPredator moved (2, 6) to (2, 4)!
+[07-01-2026 23:32:47] -----Round 4 ended!-----
+
+[07-01-2026 23:33:28] -----Round 5 started!-----
+[07-01-2026 23:33:28] Prey moved (7, 4) to (8, 5)!
+[07-01-2026 23:33:28] Player (Predator) moved (4, 1) to (5, 2)!
+[07-01-2026 23:33:28] ApexPredator moved (2, 4) to (3, 3)!
+[07-01-2026 23:33:28] -----Round 5 ended!-----
+
+[07-01-2026 23:33:28] -----Round 6 started!-----
+[07-01-2026 23:33:28] Prey moved (8, 5) to (9, 6)!
+[07-01-2026 23:33:28] Player (Predator) moved (5, 2) to (6, 3)!
+[07-01-2026 23:33:28] ApexPredator moved (3, 3) to (4, 3)!
+[07-01-2026 23:33:28] -----Round 6 ended!-----
+
+[07-01-2026 23:33:29] -----Round 7 started!-----
+[07-01-2026 23:33:29] Prey moved (9, 6) to (9, 7)!
+[07-01-2026 23:33:29] Player (Predator) moved (6, 3) to (7, 4)!
+[07-01-2026 23:33:29] ApexPredator moved (4, 3) to (6, 3)!
+[07-01-2026 23:33:29] -----Round 7 ended!-----
+
+[07-01-2026 23:33:29] -----Round 8 started!-----
+[07-01-2026 23:33:29] Prey moved (9, 7) to (9, 8)!
+[07-01-2026 23:33:29] Player (Predator) moved (7, 4) to (8, 5)!
+[07-01-2026 23:33:29] ApexPredator moved (6, 3) to (7, 4)!
+[07-01-2026 23:33:29] -----Round 8 ended!-----
+
+[07-01-2026 23:33:30] -----Round 9 started!-----
+[07-01-2026 23:33:30] Prey moved (9, 8) to (9, 9)!
+[07-01-2026 23:33:30] Player (Predator) moved (8, 5) to (8, 7)!
+[07-01-2026 23:33:30] ApexPredator moved (7, 4) to (8, 5)!
+[07-01-2026 23:33:30] -----Round 9 ended!-----
+
+[07-01-2026 23:33:31] -----Round 10 started!-----
+[07-01-2026 23:33:31] Prey moved (9, 9) to (9, 9)!
+[07-01-2026 23:33:31] Player (Predator) moved (8, 7) to (8, 8)!
+[07-01-2026 23:33:31] ApexPredator moved (8, 5) to (8, 7)!
+[07-01-2026 23:33:31] -----Round 10 ended!-----
+
+[07-01-2026 23:33:31] -----Round 11 started!-----
+[07-01-2026 23:33:31] Prey moved (9, 9) to (9, 8)!
+[07-01-2026 23:33:31] Player (Predator) moved (8, 8) to (9, 9)!
+[07-01-2026 23:33:31] ApexPredator moved (8, 7) to (9, 8)!
+[07-01-2026 23:33:31] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 23:33:31] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 23:33:31] -----Round 11 ended!-----
+
+[07-01-2026 23:33:31] Game Ended! WINNER: Predator by 3 points!
+[07-01-2026 23:33:31] ==========================================
+[07-01-2026 23:34:58] ==========================================
+[07-01-2026 23:34:58] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+
+[07-01-2026 23:35:00] -----Round 1 started!-----
+[07-01-2026 23:35:00] Prey moved (3, 4) to (2, 5)!
+[07-01-2026 23:35:00] Player (Predator) moved (6, 2) to (5, 3)!
+[07-01-2026 23:35:00] ApexPredator moved (5, 9) to (4, 8)!
+[07-01-2026 23:35:00] -----Round 1 ended!-----
+
+[07-01-2026 23:35:01] -----Round 2 started!-----
+[07-01-2026 23:35:01] Prey moved (2, 5) to (1, 4)!
+[07-01-2026 23:35:01] Player (Predator) moved (5, 3) to (4, 4)!
+[07-01-2026 23:35:01] ApexPredator moved (4, 8) to (4, 6)!
+[07-01-2026 23:35:01] -----Round 2 ended!-----
+
+[07-01-2026 23:35:02] -----Round 3 started!-----
+[07-01-2026 23:35:02] Prey moved (1, 4) to (0, 5)!
+[07-01-2026 23:35:02] Player (Predator) moved (4, 4) to (2, 4)!
+[07-01-2026 23:35:02] ApexPredator moved (4, 6) to (3, 5)!
+[07-01-2026 23:35:02] -----Round 3 ended!-----
+
+[07-01-2026 23:35:02] -----Round 4 started!-----
+[07-01-2026 23:35:02] Prey moved (0, 5) to (0, 6)!
+[07-01-2026 23:35:02] Player (Predator) moved (2, 4) to (1, 5)!
+[07-01-2026 23:35:02] ApexPredator moved (3, 5) to (2, 5)!
+[07-01-2026 23:35:02] -----Round 4 ended!-----
+
+[07-01-2026 23:35:03] -----Round 5 started!-----
+[07-01-2026 23:35:03] Prey moved (0, 6) to (1, 7)!
+[07-01-2026 23:35:03] Player (Predator) moved (1, 5) to (0, 6)!
+[07-01-2026 23:35:03] ApexPredator moved (2, 5) to (1, 6)!
+[07-01-2026 23:35:03] -----Round 5 ended!-----
+
+[07-01-2026 23:35:05] -----Round 6 started!-----
+[07-01-2026 23:35:05] Prey moved (1, 7) to (2, 8)!
+[07-01-2026 23:35:05] Player (Predator) moved (0, 6) to (0, 4)!
+[07-01-2026 23:35:05] ApexPredator moved (1, 6) to (0, 5)!
+[07-01-2026 23:35:05] -----Round 6 ended!-----
+
+[07-01-2026 23:35:06] -----Round 7 started!-----
+[07-01-2026 23:35:06] Prey moved (2, 8) to (3, 9)!
+[07-01-2026 23:35:06] Player (Predator) moved (0, 4) to (1, 4)!
+[07-01-2026 23:35:06] ApexPredator moved (0, 5) to (1, 4)!
+[07-01-2026 23:35:06] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 23:35:06] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 23:35:06] -----Round 7 ended!-----
+
+[07-01-2026 23:35:07] -----Round 8 started!-----
+[07-01-2026 23:35:07] Prey moved (3, 9) to (2, 9)!
+[07-01-2026 23:35:07] Player (Predator) moved (3, 6) to (4, 7)!
+[07-01-2026 23:35:07] ApexPredator moved (1, 4) to (2, 5)!
+[07-01-2026 23:35:07] -----Round 8 ended!-----
+
+[07-01-2026 23:35:07] -----Round 9 started!-----
+[07-01-2026 23:35:07] Prey moved (2, 9) to (1, 9)!
+[07-01-2026 23:35:07] Player (Predator) moved (4, 7) to (3, 8)!
+[07-01-2026 23:35:07] ApexPredator moved (2, 5) to (2, 7)!
+[07-01-2026 23:35:07] -----Round 9 ended!-----
+
+[07-01-2026 23:35:08] -----Round 10 started!-----
+[07-01-2026 23:35:08] Prey moved (1, 9) to (0, 9)!
+[07-01-2026 23:35:08] Player (Predator) moved (3, 8) to (1, 8)!
+[07-01-2026 23:35:08] ApexPredator moved (2, 7) to (1, 8)!
+[07-01-2026 23:35:08] Apex gained 1 points! (Hunted Predator)
+[07-01-2026 23:35:08] Predator lost -1 points! (Hunted by Apex)
+[07-01-2026 23:35:08] -----Round 10 ended!-----
+
+[07-01-2026 23:35:08] -----Round 11 started!-----
+[07-01-2026 23:35:08] Prey moved (0, 9) to (0, 9)!
+[07-01-2026 23:35:08] Player (Predator) moved (0, 3) to (0, 4)!
+[07-01-2026 23:35:08] ApexPredator moved (1, 8) to (0, 9)!
+[07-01-2026 23:35:08] Apex gained 1 points! (Hunted Prey)
+[07-01-2026 23:35:08] Prey lost -1 points! (Hunted by Apex)
+[07-01-2026 23:35:08] -----Round 11 ended!-----
+
+[07-01-2026 23:35:08] Game Ended! WINNER: ApexPredator by 3 points!
+[07-01-2026 23:35:08] ==========================================
+[07-01-2026 23:46:08] ==========================================
+[07-01-2026 23:46:08] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+
+[07-01-2026 23:46:10] -----Round 1 started!-----
+[07-01-2026 23:46:10] Prey moved (2, 5) to (1, 4)!
+[07-01-2026 23:46:10] Player (Predator) moved (5, 8) to (6, 7)!
+[07-01-2026 23:46:10] ApexPredator moved (5, 1) to (4, 2)!
+[07-01-2026 23:46:10] -----Round 1 ended!-----
+
+[08-01-2026 00:39:25] -----Round 2 started!-----
+[08-01-2026 00:39:25] Prey moved (1, 4) to (0, 5)!
+[08-01-2026 00:39:25] Player (Predator) moved (6, 7) to (6, 5)!
+[08-01-2026 00:39:25] ApexPredator moved (4, 2) to (5, 3)!
+[08-01-2026 00:39:25] -----Round 2 ended!-----
+
+[08-01-2026 00:47:16] ==========================================
+[08-01-2026 00:47:16] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+
+[08-01-2026 00:47:24] ==========================================
+[08-01-2026 00:47:24] New Game: Era: Future, TotalRounds: 11, User Role: Predator
+
+[08-01-2026 01:11:08] ==========================================
+[08-01-2026 01:11:08] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+
+[08-01-2026 01:11:09] -----Round 1 started!-----
+[08-01-2026 01:11:09] Prey moved (4, 1) to (5, 2)!
+[08-01-2026 01:11:09] Player (Predator) moved (4, 6) to (6, 6)!
+[08-01-2026 01:11:09] ApexPredator moved (5, 0) to (5, 2)!
+[08-01-2026 01:11:09] Apex gained 1 points! (Hunted Prey)
+[08-01-2026 01:11:09] Prey lost -1 points! (Hunted by Apex)
+[08-01-2026 01:11:09] -----Round 1 ended!-----
+
+[08-01-2026 01:11:10] -----Round 2 started!-----
+[08-01-2026 01:11:10] Prey moved (6, 4) to (7, 3)!
+[08-01-2026 01:11:10] Prey gained 3 points! (Ate Food)
+[08-01-2026 01:11:10] Player (Predator) moved (6, 6) to (5, 7)!
+[08-01-2026 01:11:10] ApexPredator moved (5, 2) to (6, 3)!
+[08-01-2026 01:11:10] -----Round 2 ended!-----
+
+[08-01-2026 01:11:10] -----Round 3 started!-----
+[08-01-2026 01:11:10] Prey moved (7, 3) to (8, 4)!
+[08-01-2026 01:11:10] Player (Predator) moved (5, 7) to (5, 7)!
+[08-01-2026 01:11:10] ApexPredator moved (6, 3) to (7, 4)!
+[08-01-2026 01:11:10] -----Round 3 ended!-----
+
+[08-01-2026 01:11:10] -----Round 4 started!-----
+[08-01-2026 01:11:10] Prey moved (8, 4) to (9, 5)!
+[08-01-2026 01:11:10] Player (Predator) moved (5, 7) to (5, 7)!
+[08-01-2026 01:11:10] ApexPredator moved (7, 4) to (8, 5)!
+[08-01-2026 01:11:10] -----Round 4 ended!-----
+
+[08-01-2026 01:11:10] -----Round 5 started!-----
+[08-01-2026 01:11:10] Prey moved (9, 5) to (8, 6)!
+[08-01-2026 01:11:10] Player (Predator) moved (5, 7) to (5, 7)!
+[08-01-2026 01:11:10] ApexPredator moved (8, 5) to (8, 6)!
+[08-01-2026 01:11:10] Apex gained 1 points! (Hunted Prey)
+[08-01-2026 01:11:10] Prey lost -1 points! (Hunted by Apex)
+[08-01-2026 01:11:10] -----Round 5 ended!-----
+
+[08-01-2026 01:11:10] -----Round 6 started!-----
+[08-01-2026 01:11:10] Prey moved (8, 4) to (7, 3)!
+[08-01-2026 01:11:10] Player (Predator) moved (5, 7) to (5, 7)!
+[08-01-2026 01:11:10] ApexPredator moved (8, 6) to (6, 6)!
+[08-01-2026 01:11:10] -----Round 6 ended!-----
+
+[08-01-2026 01:11:10] -----Round 7 started!-----
+[08-01-2026 01:11:10] Prey moved (7, 3) to (6, 2)!
+[08-01-2026 01:11:10] Player (Predator) moved (5, 7) to (5, 7)!
+[08-01-2026 01:11:10] ApexPredator moved (6, 6) to (5, 7)!
+[08-01-2026 01:11:10] Apex gained 1 points! (Hunted Predator)
+[08-01-2026 01:11:10] Predator lost -1 points! (Hunted by Apex)
+[08-01-2026 01:11:10] -----Round 7 ended!-----
+
+[08-01-2026 01:11:11] -----Round 8 started!-----
+[08-01-2026 01:11:11] Prey moved (6, 2) to (5, 1)!
+[08-01-2026 01:11:11] Player (Predator) moved (0, 8) to (1, 8)!
+[08-01-2026 01:11:11] ApexPredator moved (5, 7) to (4, 8)!
+[08-01-2026 01:11:11] -----Round 8 ended!-----
+
+[08-01-2026 01:11:11] -----Round 9 started!-----
+[08-01-2026 01:11:11] Prey moved (5, 1) to (4, 0)!
+[08-01-2026 01:11:11] Player (Predator) moved (1, 8) to (1, 6)!
+[08-01-2026 01:11:11] ApexPredator moved (4, 8) to (3, 7)!
+[08-01-2026 01:11:11] -----Round 9 ended!-----
+
+[08-01-2026 01:11:12] -----Round 10 started!-----
+[08-01-2026 01:11:12] Prey moved (4, 0) to (5, 0)!
+[08-01-2026 01:11:12] Player (Predator) moved (1, 6) to (1, 5)!
+[08-01-2026 01:11:12] ApexPredator moved (3, 7) to (2, 6)!
+[08-01-2026 01:11:12] -----Round 10 ended!-----
+
+[08-01-2026 01:11:12] -----Round 11 started!-----
+[08-01-2026 01:11:12] Prey moved (5, 0) to (6, 0)!
+[08-01-2026 01:11:12] Player (Predator) moved (1, 5) to (2, 4)!
+[08-01-2026 01:11:12] ApexPredator moved (2, 6) to (2, 4)!
+[08-01-2026 01:11:12] Apex gained 1 points! (Hunted Predator)
+[08-01-2026 01:11:12] Predator lost -1 points! (Hunted by Apex)
+[08-01-2026 01:11:12] -----Round 11 ended!-----
+
+[08-01-2026 01:11:12] Game Ended! WINNER: ApexPredator by 4 points!
+[08-01-2026 01:11:12] ==========================================
+[08-01-2026 01:55:46] ==========================================
+[08-01-2026 01:55:46] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+
+[08-01-2026 01:55:47] -----Round 1 started!-----
+[08-01-2026 01:55:47] Prey moved (7, 8) to (8, 9)!
+[08-01-2026 01:55:47] Player (Predator) moved (6, 4) to (6, 5)!
+[08-01-2026 01:55:47] ApexPredator moved (4, 1) to (4, 3)!
+[08-01-2026 01:55:47] -----Round 1 ended!-----
+
+[08-01-2026 01:55:47] -----Round 2 started!-----
+[08-01-2026 01:55:47] Prey moved (8, 9) to (9, 9)!
+[08-01-2026 01:55:47] Player (Predator) moved (6, 5) to (6, 4)!
+[08-01-2026 01:55:47] ApexPredator moved (4, 3) to (5, 4)!
+[08-01-2026 01:55:47] -----Round 2 ended!-----
+
+[08-01-2026 01:55:47] -----Round 3 started!-----
+[08-01-2026 01:55:47] Prey moved (9, 9) to (9, 9)!
+[08-01-2026 01:55:47] Player (Predator) moved (6, 4) to (6, 4)!
+[08-01-2026 01:55:47] ApexPredator moved (5, 4) to (6, 4)!
+[08-01-2026 01:55:47] Apex gained 1 points! (Hunted Predator)
+[08-01-2026 01:55:47] Predator lost -1 points! (Hunted by Apex)
+[08-01-2026 01:55:47] -----Round 3 ended!-----
+
+[08-01-2026 01:55:48] -----Round 4 started!-----
+[08-01-2026 01:55:48] Prey moved (9, 9) to (9, 9)!
+[08-01-2026 01:55:48] Player (Predator) moved (4, 4) to (6, 4)!
+[08-01-2026 01:55:48] Apex gained 1 points! (Caught Player)
+[08-01-2026 01:55:48] Player lost -1 points! (Ran into Apex)
+[08-01-2026 01:55:48] ApexPredator moved (6, 4) to (6, 6)!
+[08-01-2026 01:55:48] -----Round 4 ended!-----
+
+[08-01-2026 01:55:48] -----Round 5 started!-----
+[08-01-2026 01:55:48] Prey moved (9, 9) to (9, 9)!
+[08-01-2026 01:55:48] Player (Predator) moved (0, 9) to (1, 8)!
+[08-01-2026 01:55:48] ApexPredator moved (6, 6) to (7, 7)!
+[08-01-2026 01:55:48] -----Round 5 ended!-----
+
+[08-01-2026 01:55:48] -----Round 6 started!-----
+[08-01-2026 01:55:48] Prey moved (9, 9) to (9, 9)!
+[08-01-2026 01:55:48] Player (Predator) moved (1, 8) to (1, 8)!
+[08-01-2026 01:55:48] ApexPredator moved (7, 7) to (8, 8)!
+[08-01-2026 01:55:48] -----Round 6 ended!-----
+
+[08-01-2026 01:55:49] -----Round 7 started!-----
+[08-01-2026 01:55:49] Prey moved (9, 9) to (9, 9)!
+[08-01-2026 01:55:49] Player (Predator) moved (1, 8) to (1, 8)!
+[08-01-2026 01:55:49] ApexPredator moved (8, 8) to (9, 9)!
+[08-01-2026 01:55:49] Apex gained 1 points! (Hunted Prey)
+[08-01-2026 01:55:49] Prey lost -1 points! (Hunted by Apex)
+[08-01-2026 01:55:49] -----Round 7 ended!-----
+
+[08-01-2026 01:55:49] -----Round 8 started!-----
+[08-01-2026 01:55:49] Prey moved (8, 1) to (7, 0)!
+[08-01-2026 01:55:49] Player (Predator) moved (1, 8) to (1, 8)!
+[08-01-2026 01:55:49] ApexPredator moved (9, 9) to (7, 9)!
+[08-01-2026 01:55:49] -----Round 8 ended!-----
+
+[08-01-2026 01:55:49] -----Round 9 started!-----
+[08-01-2026 01:55:49] Prey moved (7, 0) to (6, 0)!
+[08-01-2026 01:55:49] Player (Predator) moved (1, 8) to (1, 8)!
+[08-01-2026 01:55:49] ApexPredator moved (7, 9) to (6, 8)!
+[08-01-2026 01:55:49] -----Round 9 ended!-----
+
+[08-01-2026 01:55:49] -----Round 10 started!-----
+[08-01-2026 01:55:49] Prey moved (6, 0) to (7, 0)!
+[08-01-2026 01:55:49] Player (Predator) moved (1, 8) to (1, 8)!
+[08-01-2026 01:55:49] ApexPredator moved (6, 8) to (5, 8)!
+[08-01-2026 01:55:49] -----Round 10 ended!-----
+
+[08-01-2026 01:55:49] -----Round 11 started!-----
+[08-01-2026 01:55:49] Prey moved (7, 0) to (8, 0)!
+[08-01-2026 01:55:49] Player (Predator) moved (1, 8) to (1, 8)!
+[08-01-2026 01:55:49] ApexPredator moved (5, 8) to (3, 8)!
+[08-01-2026 01:55:49] -----Round 11 ended!-----
+
+[08-01-2026 01:55:49] Game Ended! WINNER: ApexPredator by 3 points!
+[08-01-2026 01:55:49] ==========================================
+[09-01-2026 11:09:15] ==========================================
+[09-01-2026 11:09:15] New Game: Era: Present, TotalRounds: 10, User Role: Predator
+
+[09-01-2026 11:09:30] -----Round 1 started!-----
+[09-01-2026 11:09:30] Prey moved (6, 5) to (4, 3)!
+[09-01-2026 11:09:30] Player (Predator) moved (1, 2) to (2, 3)!
+[09-01-2026 11:09:30] ApexPredator moved (8, 8) to (5, 5)!
+[09-01-2026 11:09:30] -----Round 1 ended!-----
+
+[09-01-2026 11:09:36] -----Round 2 started!-----
+[09-01-2026 11:09:36] Prey moved (4, 3) to (5, 4)!
+[09-01-2026 11:09:36] Player (Predator) moved (2, 3) to (1, 2)!
+[09-01-2026 11:09:36] ApexPredator moved (5, 5) to (5, 4)!
+[09-01-2026 11:09:36] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:09:36] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:09:36] -----Round 2 ended!-----
+
+[09-01-2026 11:09:45] -----Round 2 started!-----
+[09-01-2026 11:09:45] Prey moved (4, 3) to (5, 4)!
+[09-01-2026 11:09:45] Player (Predator) moved (2, 3) to (2, 2)!
+[09-01-2026 11:09:45] ApexPredator moved (5, 5) to (5, 4)!
+[09-01-2026 11:09:45] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:09:45] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:09:45] -----Round 2 ended!-----
+
+[09-01-2026 11:09:46] -----Round 3 started!-----
+[09-01-2026 11:09:46] Prey moved (6, 1) to (7, 0)!
+[09-01-2026 11:09:46] Player (Predator) moved (2, 2) to (3, 1)!
+[09-01-2026 11:09:46] ApexPredator moved (5, 4) to (4, 3)!
+[09-01-2026 11:09:46] -----Round 3 ended!-----
+
+[09-01-2026 11:09:56] ==========================================
+[09-01-2026 11:09:56] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+
+[09-01-2026 11:10:21] ==========================================
+[09-01-2026 11:10:21] New Game: Era: Future, TotalRounds: 11, User Role: Predator
+
+[09-01-2026 11:16:00] ==========================================
+[09-01-2026 11:16:00] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+
+[09-01-2026 11:16:05] -----Round 1 started!-----
+[09-01-2026 11:16:05] Prey moved (2, 9) to (1, 9)!
+[09-01-2026 11:16:05] Player (Predator) moved (9, 7) to (7, 7)!
+[09-01-2026 11:16:05] ApexPredator moved (7, 3) to (7, 5)!
+[09-01-2026 11:16:05] -----Round 1 ended!-----
+
+[09-01-2026 11:16:07] -----Round 2 started!-----
+[09-01-2026 11:16:07] Prey moved (1, 9) to (0, 9)!
+[09-01-2026 11:16:07] Player (Predator) moved (7, 7) to (6, 8)!
+[09-01-2026 11:16:07] ApexPredator moved (7, 5) to (6, 6)!
+[09-01-2026 11:16:07] -----Round 2 ended!-----
+
+[09-01-2026 11:16:08] -----Round 3 started!-----
+[09-01-2026 11:16:08] Prey moved (0, 9) to (0, 9)!
+[09-01-2026 11:16:08] Player (Predator) moved (6, 8) to (5, 8)!
+[09-01-2026 11:16:08] ApexPredator moved (6, 6) to (5, 7)!
+[09-01-2026 11:16:08] -----Round 3 ended!-----
+
+[09-01-2026 11:16:09] -----Round 4 started!-----
+[09-01-2026 11:16:09] Prey moved (0, 9) to (0, 9)!
+[09-01-2026 11:16:09] Player (Predator) moved (5, 8) to (3, 8)!
+[09-01-2026 11:16:09] ApexPredator moved (5, 7) to (4, 8)!
+[09-01-2026 11:16:09] -----Round 4 ended!-----
+
+[09-01-2026 11:16:10] -----Round 5 started!-----
+[09-01-2026 11:16:10] Prey moved (0, 9) to (0, 9)!
+[09-01-2026 11:16:10] Player (Predator) moved (3, 8) to (2, 9)!
+[09-01-2026 11:16:10] ApexPredator moved (4, 8) to (3, 9)!
+[09-01-2026 11:16:10] -----Round 5 ended!-----
+
+[09-01-2026 11:16:10] -----Round 6 started!-----
+[09-01-2026 11:16:10] Prey moved (0, 9) to (0, 8)!
+[09-01-2026 11:16:10] Player (Predator) moved (2, 9) to (1, 9)!
+[09-01-2026 11:16:10] ApexPredator moved (3, 9) to (1, 9)!
+[09-01-2026 11:16:10] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:16:10] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:16:10] -----Round 6 ended!-----
+
+[09-01-2026 11:16:12] -----Round 7 started!-----
+[09-01-2026 11:16:12] Prey moved (0, 8) to (1, 7)!
+[09-01-2026 11:16:12] Player (Predator) moved (1, 2) to (2, 3)!
+[09-01-2026 11:16:12] ApexPredator moved (1, 9) to (1, 8)!
+[09-01-2026 11:16:12] -----Round 7 ended!-----
+
+[09-01-2026 11:16:13] -----Round 8 started!-----
+[09-01-2026 11:16:13] Prey moved (1, 7) to (2, 6)!
+[09-01-2026 11:16:13] Player (Predator) moved (2, 3) to (3, 4)!
+[09-01-2026 11:16:13] ApexPredator moved (1, 8) to (2, 7)!
+[09-01-2026 11:16:13] -----Round 8 ended!-----
+
+[09-01-2026 11:16:14] -----Round 9 started!-----
+[09-01-2026 11:16:14] Prey moved (2, 6) to (3, 5)!
+[09-01-2026 11:16:14] Player (Predator) moved (3, 4) to (2, 4)!
+[09-01-2026 11:16:14] ApexPredator moved (2, 7) to (3, 6)!
+[09-01-2026 11:16:14] -----Round 9 ended!-----
+
+[09-01-2026 11:16:16] -----Round 10 started!-----
+[09-01-2026 11:16:16] Prey moved (3, 5) to (4, 4)!
+[09-01-2026 11:16:16] Player (Predator) moved (2, 4) to (3, 5)!
+[09-01-2026 11:16:16] ApexPredator moved (3, 6) to (3, 5)!
+[09-01-2026 11:16:16] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:16:16] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:16:16] -----Round 10 ended!-----
+
+[09-01-2026 11:16:36] -----Round 11 started!-----
+[09-01-2026 11:16:36] Prey moved (4, 4) to (5, 5)!
+[09-01-2026 11:16:36] Player (Predator) moved (6, 5) to (5, 4)!
+[09-01-2026 11:16:36] ApexPredator moved (3, 5) to (5, 5)!
+[09-01-2026 11:16:36] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:16:36] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:16:36] -----Round 11 ended!-----
+
+[09-01-2026 11:16:36] Game Ended! WINNER: ApexPredator by 3 points!
+[09-01-2026 11:16:36] ==========================================
+[09-01-2026 11:16:47] ==========================================
+[09-01-2026 11:16:47] New Game: Era: Past, TotalRounds: 40, User Role: Predator
+
+[09-01-2026 11:16:49] -----Round 1 started!-----
+[09-01-2026 11:16:49] Prey moved (1, 6) to (0, 7)!
+[09-01-2026 11:16:49] Player (Predator) moved (2, 4) to (1, 5)!
+[09-01-2026 11:16:49] ApexPredator moved (3, 2) to (2, 3)!
+[09-01-2026 11:16:49] -----Round 1 ended!-----
+
+[09-01-2026 11:16:50] -----Round 2 started!-----
+[09-01-2026 11:16:50] Prey moved (0, 7) to (1, 8)!
+[09-01-2026 11:16:50] Player (Predator) moved (1, 5) to (0, 6)!
+[09-01-2026 11:16:50] ApexPredator moved (2, 3) to (1, 4)!
+[09-01-2026 11:16:50] -----Round 2 ended!-----
+
+[09-01-2026 11:16:51] -----Round 3 started!-----
+[09-01-2026 11:16:51] Prey moved (1, 8) to (2, 9)!
+[09-01-2026 11:16:51] Prey gained 3 points! (Ate Food)
+[09-01-2026 11:16:51] Player (Predator) moved (0, 6) to (1, 7)!
+[09-01-2026 11:16:51] ApexPredator moved (1, 4) to (1, 6)!
+[09-01-2026 11:16:51] -----Round 3 ended!-----
+
+[09-01-2026 11:16:52] -----Round 4 started!-----
+[09-01-2026 11:16:52] Prey moved (2, 9) to (3, 9)!
+[09-01-2026 11:16:52] Player (Predator) moved (1, 7) to (2, 8)!
+[09-01-2026 11:16:52] ApexPredator moved (1, 6) to (2, 7)!
+[09-01-2026 11:16:52] -----Round 4 ended!-----
+
+[09-01-2026 11:16:53] -----Round 5 started!-----
+[09-01-2026 11:16:53] Prey moved (3, 9) to (4, 8)!
+[09-01-2026 11:16:53] Player (Predator) moved (2, 8) to (3, 9)!
+[09-01-2026 11:16:53] ApexPredator moved (2, 7) to (3, 8)!
+[09-01-2026 11:16:53] -----Round 5 ended!-----
+
+[09-01-2026 11:16:57] -----Round 6 started!-----
+[09-01-2026 11:16:57] Prey moved (4, 8) to (5, 7)!
+[09-01-2026 11:16:57] Player (Predator) moved (3, 9) to (4, 8)!
+[09-01-2026 11:16:57] ApexPredator moved (3, 8) to (4, 8)!
+[09-01-2026 11:16:57] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:16:57] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:16:57] -----Round 6 ended!-----
+
+[09-01-2026 11:17:01] -----Round 7 started!-----
+[09-01-2026 11:17:01] Prey moved (5, 7) to (6, 6)!
+[09-01-2026 11:17:01] Player (Predator) moved (1, 3) to (3, 3)!
+[09-01-2026 11:17:01] ApexPredator moved (4, 8) to (5, 7)!
+[09-01-2026 11:17:01] -----Round 7 ended!-----
+
+[09-01-2026 11:17:06] -----Round 8 started!-----
+[09-01-2026 11:17:06] Prey moved (6, 6) to (7, 5)!
+[09-01-2026 11:17:06] Player (Predator) moved (3, 3) to (3, 3)!
+[09-01-2026 11:17:06] ApexPredator moved (5, 7) to (6, 6)!
+[09-01-2026 11:17:06] -----Round 8 ended!-----
+
+[09-01-2026 11:17:07] -----Round 9 started!-----
+[09-01-2026 11:17:07] Prey moved (7, 5) to (6, 4)!
+[09-01-2026 11:17:07] Player (Predator) moved (3, 3) to (4, 2)!
+[09-01-2026 11:17:07] ApexPredator moved (6, 6) to (6, 4)!
+[09-01-2026 11:17:07] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:17:07] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:17:07] -----Round 9 ended!-----
+
+[09-01-2026 11:17:13] -----Round 10 started!-----
+[09-01-2026 11:17:13] Prey moved (0, 3) to (0, 4)!
+[09-01-2026 11:17:13] Player (Predator) moved (4, 2) to (2, 2)!
+[09-01-2026 11:17:13] ApexPredator moved (6, 4) to (5, 3)!
+[09-01-2026 11:17:13] -----Round 10 ended!-----
+
+[09-01-2026 11:17:13] -----Round 11 started!-----
+[09-01-2026 11:17:13] Prey moved (0, 4) to (0, 5)!
+[09-01-2026 11:17:13] Player (Predator) moved (2, 2) to (2, 3)!
+[09-01-2026 11:17:13] ApexPredator moved (5, 3) to (4, 3)!
+[09-01-2026 11:17:13] -----Round 11 ended!-----
+
+[09-01-2026 11:17:14] -----Round 12 started!-----
+[09-01-2026 11:17:14] Prey moved (0, 5) to (0, 6)!
+[09-01-2026 11:17:14] Player (Predator) moved (2, 3) to (1, 4)!
+[09-01-2026 11:17:14] ApexPredator moved (4, 3) to (2, 3)!
+[09-01-2026 11:17:14] -----Round 12 ended!-----
+
+[09-01-2026 11:17:15] -----Round 13 started!-----
+[09-01-2026 11:17:15] Prey moved (0, 6) to (1, 7)!
+[09-01-2026 11:17:15] Player (Predator) moved (1, 4) to (1, 6)!
+[09-01-2026 11:17:15] ApexPredator moved (2, 3) to (1, 4)!
+[09-01-2026 11:17:15] -----Round 13 ended!-----
+
+[09-01-2026 11:17:16] -----Round 14 started!-----
+[09-01-2026 11:17:16] Prey moved (1, 7) to (2, 8)!
+[09-01-2026 11:17:16] Player (Predator) moved (1, 6) to (2, 7)!
+[09-01-2026 11:17:16] ApexPredator moved (1, 4) to (2, 5)!
+[09-01-2026 11:17:16] -----Round 14 ended!-----
+
+[09-01-2026 11:17:17] -----Round 15 started!-----
+[09-01-2026 11:17:17] Prey moved (2, 8) to (3, 9)!
+[09-01-2026 11:17:17] Player (Predator) moved (2, 7) to (3, 8)!
+[09-01-2026 11:17:17] ApexPredator moved (2, 5) to (2, 7)!
+[09-01-2026 11:17:17] -----Round 15 ended!-----
+
+[09-01-2026 11:17:18] -----Round 16 started!-----
+[09-01-2026 11:17:18] Prey moved (3, 9) to (4, 8)!
+[09-01-2026 11:17:18] Player (Predator) moved (3, 8) to (4, 9)!
+[09-01-2026 11:17:18] ApexPredator moved (2, 7) to (3, 8)!
+[09-01-2026 11:17:18] -----Round 16 ended!-----
+
+[09-01-2026 11:17:19] -----Round 17 started!-----
+[09-01-2026 11:17:19] Prey moved (4, 8) to (5, 7)!
+[09-01-2026 11:17:19] Player (Predator) moved (4, 9) to (5, 8)!
+[09-01-2026 11:17:19] ApexPredator moved (3, 8) to (4, 8)!
+[09-01-2026 11:17:19] -----Round 17 ended!-----
+
+[09-01-2026 11:17:20] -----Round 18 started!-----
+[09-01-2026 11:17:20] Prey moved (5, 7) to (4, 6)!
+[09-01-2026 11:17:20] Player (Predator) moved (5, 8) to (6, 7)!
+[09-01-2026 11:17:20] ApexPredator moved (4, 8) to (4, 6)!
+[09-01-2026 11:17:20] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:17:20] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:17:20] -----Round 18 ended!-----
+
+[09-01-2026 11:17:25] -----Round 19 started!-----
+[09-01-2026 11:17:25] Prey moved (0, 7) to (0, 6)!
+[09-01-2026 11:17:25] Player (Predator) moved (6, 7) to (5, 8)!
+[09-01-2026 11:17:25] ApexPredator moved (4, 6) to (5, 7)!
+[09-01-2026 11:17:25] -----Round 19 ended!-----
+
+[09-01-2026 11:17:27] -----Round 20 started!-----
+[09-01-2026 11:17:27] Prey moved (0, 6) to (0, 5)!
+[09-01-2026 11:17:27] Player (Predator) moved (5, 8) to (3, 8)!
+[09-01-2026 11:17:27] ApexPredator moved (5, 7) to (4, 8)!
+[09-01-2026 11:17:27] -----Round 20 ended!-----
+
+[09-01-2026 11:17:27] -----Round 21 started!-----
+[09-01-2026 11:17:27] Prey moved (0, 5) to (0, 4)!
+[09-01-2026 11:17:27] Player (Predator) moved (3, 8) to (2, 7)!
+[09-01-2026 11:17:27] ApexPredator moved (4, 8) to (3, 7)!
+[09-01-2026 11:17:27] -----Round 21 ended!-----
+
+[09-01-2026 11:17:28] -----Round 22 started!-----
+[09-01-2026 11:17:28] Prey moved (0, 4) to (1, 3)!
+[09-01-2026 11:17:28] Player (Predator) moved (2, 7) to (1, 6)!
+[09-01-2026 11:17:28] ApexPredator moved (3, 7) to (2, 6)!
+[09-01-2026 11:17:28] -----Round 22 ended!-----
+
+[09-01-2026 11:17:28] -----Round 23 started!-----
+[09-01-2026 11:17:28] Prey moved (1, 3) to (2, 2)!
+[09-01-2026 11:17:28] Player (Predator) moved (1, 6) to (1, 4)!
+[09-01-2026 11:17:28] ApexPredator moved (2, 6) to (1, 5)!
+[09-01-2026 11:17:28] -----Round 23 ended!-----
+
+[09-01-2026 11:17:29] -----Round 24 started!-----
+[09-01-2026 11:17:29] Prey moved (2, 2) to (3, 1)!
+[09-01-2026 11:17:29] Player (Predator) moved (1, 4) to (2, 3)!
+[09-01-2026 11:17:29] ApexPredator moved (1, 5) to (2, 4)!
+[09-01-2026 11:17:29] -----Round 24 ended!-----
+
+[09-01-2026 11:17:30] -----Round 25 started!-----
+[09-01-2026 11:17:30] Prey moved (3, 1) to (4, 0)!
+[09-01-2026 11:17:30] Player (Predator) moved (2, 3) to (3, 2)!
+[09-01-2026 11:17:30] ApexPredator moved (2, 4) to (3, 3)!
+[09-01-2026 11:17:30] -----Round 25 ended!-----
+
+[09-01-2026 11:17:30] -----Round 26 started!-----
+[09-01-2026 11:17:30] Prey moved (4, 0) to (5, 0)!
+[09-01-2026 11:17:30] Player (Predator) moved (3, 2) to (4, 1)!
+[09-01-2026 11:17:30] ApexPredator moved (3, 3) to (4, 2)!
+[09-01-2026 11:17:30] -----Round 26 ended!-----
+
+[09-01-2026 11:17:37] -----Round 27 started!-----
+[09-01-2026 11:17:37] Prey moved (5, 0) to (6, 1)!
+[09-01-2026 11:17:37] Player (Predator) moved (4, 1) to (5, 0)!
+[09-01-2026 11:17:37] ApexPredator moved (4, 2) to (5, 1)!
+[09-01-2026 11:17:37] -----Round 27 ended!-----
+
+[09-01-2026 11:17:38] -----Round 28 started!-----
+[09-01-2026 11:17:38] Prey moved (6, 1) to (7, 2)!
+[09-01-2026 11:17:38] Player (Predator) moved (5, 0) to (6, 1)!
+[09-01-2026 11:17:38] ApexPredator moved (5, 1) to (6, 1)!
+[09-01-2026 11:17:38] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:17:38] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:17:38] -----Round 28 ended!-----
+
+[09-01-2026 11:17:39] -----Round 29 started!-----
+[09-01-2026 11:17:39] Prey moved (7, 2) to (6, 3)!
+[09-01-2026 11:17:39] Player (Predator) moved (0, 6) to (2, 6)!
+[09-01-2026 11:17:39] ApexPredator moved (6, 1) to (6, 3)!
+[09-01-2026 11:17:39] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:17:39] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:17:39] -----Round 29 ended!-----
+
+[09-01-2026 11:17:40] -----Round 30 started!-----
+[09-01-2026 11:17:40] Prey moved (4, 2) to (3, 3)!
+[09-01-2026 11:17:40] Player (Predator) moved (2, 6) to (1, 5)!
+[09-01-2026 11:17:40] ApexPredator moved (6, 3) to (5, 3)!
+[09-01-2026 11:17:40] -----Round 30 ended!-----
+
+[09-01-2026 11:17:42] -----Round 31 started!-----
+[09-01-2026 11:17:42] Prey moved (3, 3) to (2, 2)!
+[09-01-2026 11:17:42] Player (Predator) moved (1, 5) to (1, 4)!
+[09-01-2026 11:17:42] ApexPredator moved (5, 3) to (4, 2)!
+[09-01-2026 11:17:42] -----Round 31 ended!-----
+
+[09-01-2026 11:17:43] -----Round 32 started!-----
+[09-01-2026 11:17:43] Prey moved (2, 2) to (1, 3)!
+[09-01-2026 11:17:43] Player (Predator) moved (1, 4) to (1, 2)!
+[09-01-2026 11:17:43] ApexPredator moved (4, 2) to (2, 2)!
+[09-01-2026 11:17:43] -----Round 32 ended!-----
+
+[09-01-2026 11:17:44] -----Round 33 started!-----
+[09-01-2026 11:17:44] Prey moved (1, 3) to (2, 4)!
+[09-01-2026 11:17:44] Player (Predator) moved (1, 2) to (1, 3)!
+[09-01-2026 11:17:44] ApexPredator moved (2, 2) to (1, 3)!
+[09-01-2026 11:17:44] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:17:44] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:17:44] -----Round 33 ended!-----
+
+[09-01-2026 11:17:46] -----Round 34 started!-----
+[09-01-2026 11:17:46] Prey moved (2, 4) to (3, 5)!
+[09-01-2026 11:17:46] Player (Predator) moved (5, 1) to (5, 2)!
+[09-01-2026 11:17:46] ApexPredator moved (1, 3) to (2, 4)!
+[09-01-2026 11:17:46] -----Round 34 ended!-----
+
+[09-01-2026 11:17:48] -----Round 35 started!-----
+[09-01-2026 11:17:48] Prey moved (3, 5) to (4, 4)!
+[09-01-2026 11:17:48] Player (Predator) moved (5, 2) to (5, 4)!
+[09-01-2026 11:17:48] ApexPredator moved (2, 4) to (4, 4)!
+[09-01-2026 11:17:48] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:17:48] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:17:48] -----Round 35 ended!-----
+
+[09-01-2026 11:17:48] -----Round 36 started!-----
+[09-01-2026 11:17:48] Prey moved (8, 9) to (9, 9)!
+[09-01-2026 11:17:48] Player (Predator) moved (5, 4) to (6, 5)!
+[09-01-2026 11:17:48] ApexPredator moved (4, 4) to (5, 5)!
+[09-01-2026 11:17:48] -----Round 36 ended!-----
+
+[09-01-2026 11:17:49] -----Round 37 started!-----
+[09-01-2026 11:17:49] Prey moved (9, 9) to (9, 9)!
+[09-01-2026 11:17:49] Player (Predator) moved (6, 5) to (7, 6)!
+[09-01-2026 11:17:49] ApexPredator moved (5, 5) to (6, 6)!
+[09-01-2026 11:17:49] -----Round 37 ended!-----
+
+[09-01-2026 11:17:49] -----Round 38 started!-----
+[09-01-2026 11:17:49] Prey moved (9, 9) to (9, 9)!
+[09-01-2026 11:17:49] Player (Predator) moved (7, 6) to (8, 7)!
+[09-01-2026 11:17:49] ApexPredator moved (6, 6) to (7, 7)!
+[09-01-2026 11:17:49] -----Round 38 ended!-----
+
+[09-01-2026 11:17:50] -----Round 39 started!-----
+[09-01-2026 11:17:50] Prey moved (9, 9) to (8, 9)!
+[09-01-2026 11:17:50] Player (Predator) moved (8, 7) to (8, 9)!
+[09-01-2026 11:17:50] Player gained 3 points! (Caught Prey)
+[09-01-2026 11:17:50] Prey lost -1 points! (Eaten by Player)
+[09-01-2026 11:17:50] ApexPredator moved (7, 7) to (7, 6)!
+[09-01-2026 11:17:50] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:17:50] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:17:50] -----Round 39 ended!-----
+
+[09-01-2026 11:17:51] -----Round 40 started!-----
+[09-01-2026 11:17:51] Prey moved (9, 5) to (9, 4)!
+[09-01-2026 11:17:51] Player (Predator) moved (8, 9) to (9, 8)!
+[09-01-2026 11:17:51] ApexPredator moved (7, 6) to (8, 7)!
+[09-01-2026 11:17:51] -----Round 40 ended!-----
+
+[09-01-2026 11:17:51] Game Ended! WINNER: ApexPredator by 8 points!
+[09-01-2026 11:17:51] ==========================================
+[09-01-2026 11:17:53] ==========================================
+[09-01-2026 11:17:53] New Game: Era: Past, TotalRounds: 40, User Role: Predator
+
+[09-01-2026 11:17:57] -----Round 1 started!-----
+[09-01-2026 11:17:57] Prey moved (1, 0) to (0, 0)!
+[09-01-2026 11:17:57] Player (Predator) moved (2, 8) to (2, 6)!
+[09-01-2026 11:17:57] ApexPredator moved (5, 2) to (4, 3)!
+[09-01-2026 11:17:57] -----Round 1 ended!-----
+
+[09-01-2026 11:17:58] -----Round 2 started!-----
+[09-01-2026 11:17:58] Prey moved (0, 0) to (0, 0)!
+[09-01-2026 11:17:58] Player (Predator) moved (2, 6) to (1, 5)!
+[09-01-2026 11:17:58] ApexPredator moved (4, 3) to (3, 4)!
+[09-01-2026 11:17:58] -----Round 2 ended!-----
+
+[09-01-2026 11:17:58] -----Round 3 started!-----
+[09-01-2026 11:17:58] Prey moved (0, 0) to (0, 0)!
+[09-01-2026 11:17:58] Player (Predator) moved (1, 5) to (0, 4)!
+[09-01-2026 11:17:58] ApexPredator moved (3, 4) to (1, 4)!
+[09-01-2026 11:17:58] -----Round 3 ended!-----
+
+[09-01-2026 11:17:59] -----Round 4 started!-----
+[09-01-2026 11:17:59] Prey moved (0, 0) to (1, 0)!
+[09-01-2026 11:17:59] Player (Predator) moved (0, 4) to (0, 2)!
+[09-01-2026 11:17:59] ApexPredator moved (1, 4) to (0, 3)!
+[09-01-2026 11:17:59] -----Round 4 ended!-----
+
+[09-01-2026 11:17:59] -----Round 5 started!-----
+[09-01-2026 11:17:59] Prey moved (1, 0) to (2, 0)!
+[09-01-2026 11:17:59] Prey gained 3 points! (Ate Food)
+[09-01-2026 11:17:59] Player (Predator) moved (0, 2) to (1, 1)!
+[09-01-2026 11:17:59] ApexPredator moved (0, 3) to (1, 2)!
+[09-01-2026 11:17:59] -----Round 5 ended!-----
+
+[09-01-2026 11:18:00] -----Round 6 started!-----
+[09-01-2026 11:18:00] Prey moved (2, 0) to (3, 0)!
+[09-01-2026 11:18:00] Player (Predator) moved (1, 1) to (2, 1)!
+[09-01-2026 11:18:00] ApexPredator moved (1, 2) to (2, 1)!
+[09-01-2026 11:18:00] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:18:00] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:18:00] -----Round 6 ended!-----
+
+[09-01-2026 11:18:01] -----Round 7 started!-----
+[09-01-2026 11:18:01] Prey moved (3, 0) to (4, 0)!
+[09-01-2026 11:18:01] Player (Predator) moved (6, 2) to (5, 1)!
+[09-01-2026 11:18:01] ApexPredator moved (2, 1) to (3, 0)!
+[09-01-2026 11:18:01] -----Round 7 ended!-----
+
+[09-01-2026 11:18:02] -----Round 8 started!-----
+[09-01-2026 11:18:02] Prey moved (4, 0) to (5, 1)!
+[09-01-2026 11:18:02] Player (Predator) moved (5, 1) to (5, 0)!
+[09-01-2026 11:18:02] ApexPredator moved (3, 0) to (5, 0)!
+[09-01-2026 11:18:02] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:18:02] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:18:02] -----Round 8 ended!-----
+
+[09-01-2026 11:18:06] -----Round 9 started!-----
+[09-01-2026 11:18:06] Prey moved (5, 1) to (6, 2)!
+[09-01-2026 11:18:06] Player (Predator) moved (9, 8) to (7, 8)!
+[09-01-2026 11:18:06] ApexPredator moved (5, 0) to (6, 1)!
+[09-01-2026 11:18:06] -----Round 9 ended!-----
+
+[09-01-2026 11:18:07] -----Round 10 started!-----
+[09-01-2026 11:18:07] Prey moved (6, 2) to (7, 3)!
+[09-01-2026 11:18:07] Player (Predator) moved (7, 8) to (6, 7)!
+[09-01-2026 11:18:07] ApexPredator moved (6, 1) to (7, 2)!
+[09-01-2026 11:18:07] -----Round 10 ended!-----
+
+[09-01-2026 11:18:08] -----Round 11 started!-----
+[09-01-2026 11:18:08] Prey moved (7, 3) to (8, 4)!
+[09-01-2026 11:18:08] Player (Predator) moved (6, 7) to (7, 6)!
+[09-01-2026 11:18:08] ApexPredator moved (7, 2) to (8, 3)!
+[09-01-2026 11:18:08] -----Round 11 ended!-----
+
+[09-01-2026 11:18:09] -----Round 12 started!-----
+[09-01-2026 11:18:09] Prey moved (8, 4) to (9, 5)!
+[09-01-2026 11:18:09] Player (Predator) moved (7, 6) to (8, 6)!
+[09-01-2026 11:18:09] ApexPredator moved (8, 3) to (9, 4)!
+[09-01-2026 11:18:09] -----Round 12 ended!-----
+
+[09-01-2026 11:18:12] -----Round 13 started!-----
+[09-01-2026 11:18:12] Prey moved (9, 5) to (8, 6)!
+[09-01-2026 11:18:12] Player (Predator) moved (8, 6) to (9, 6)!
+[09-01-2026 11:18:12] ApexPredator moved (9, 4) to (9, 6)!
+[09-01-2026 11:18:12] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:18:12] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:18:12] -----Round 13 ended!-----
+
+[09-01-2026 11:18:13] -----Round 14 started!-----
+[09-01-2026 11:18:13] Prey moved (8, 6) to (7, 5)!
+[09-01-2026 11:18:13] Player (Predator) moved (8, 5) to (8, 7)!
+[09-01-2026 11:18:13] ApexPredator moved (9, 6) to (8, 7)!
+[09-01-2026 11:18:13] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:18:13] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:18:13] -----Round 14 ended!-----
+
+[09-01-2026 11:18:14] -----Round 15 started!-----
+[09-01-2026 11:18:14] Prey moved (7, 5) to (8, 4)!
+[09-01-2026 11:18:14] Player (Predator) moved (6, 9) to (5, 8)!
+[09-01-2026 11:18:14] ApexPredator moved (8, 7) to (8, 6)!
+[09-01-2026 11:18:14] -----Round 15 ended!-----
+
+[09-01-2026 11:18:14] -----Round 16 started!-----
+[09-01-2026 11:18:14] Prey moved (8, 4) to (9, 3)!
+[09-01-2026 11:18:14] Player (Predator) moved (5, 8) to (5, 7)!
+[09-01-2026 11:18:14] ApexPredator moved (8, 6) to (6, 6)!
+[09-01-2026 11:18:14] -----Round 16 ended!-----
+
+[09-01-2026 11:18:15] -----Round 17 started!-----
+[09-01-2026 11:18:15] Prey moved (9, 3) to (9, 2)!
+[09-01-2026 11:18:15] Prey gained 3 points! (Ate Food)
+[09-01-2026 11:18:15] Player (Predator) moved (5, 7) to (5, 5)!
+[09-01-2026 11:18:15] ApexPredator moved (6, 6) to (5, 5)!
+[09-01-2026 11:18:15] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:18:15] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:18:15] -----Round 17 ended!-----
+
+[09-01-2026 11:18:16] -----Round 18 started!-----
+[09-01-2026 11:18:16] Prey moved (9, 2) to (9, 1)!
+[09-01-2026 11:18:16] Player (Predator) moved (3, 1) to (4, 1)!
+[09-01-2026 11:18:16] ApexPredator moved (5, 5) to (4, 4)!
+[09-01-2026 11:18:16] -----Round 18 ended!-----
+
+[09-01-2026 11:18:16] -----Round 19 started!-----
+[09-01-2026 11:18:16] Prey moved (9, 1) to (9, 2)!
+[09-01-2026 11:18:16] Player (Predator) moved (4, 1) to (5, 1)!
+[09-01-2026 11:18:16] ApexPredator moved (4, 4) to (4, 2)!
+[09-01-2026 11:18:16] -----Round 19 ended!-----
+
+[09-01-2026 11:18:18] -----Round 20 started!-----
+[09-01-2026 11:18:18] Prey moved (9, 2) to (9, 3)!
+[09-01-2026 11:18:18] Player (Predator) moved (5, 1) to (6, 2)!
+[09-01-2026 11:18:18] ApexPredator moved (4, 2) to (5, 2)!
+[09-01-2026 11:18:18] -----Round 20 ended!-----
+
+[09-01-2026 11:18:18] -----Round 21 started!-----
+[09-01-2026 11:18:18] Prey moved (9, 3) to (9, 4)!
+[09-01-2026 11:18:18] Player (Predator) moved (6, 2) to (7, 3)!
+[09-01-2026 11:18:18] ApexPredator moved (5, 2) to (6, 3)!
+[09-01-2026 11:18:18] -----Round 21 ended!-----
+
+[09-01-2026 11:18:19] -----Round 22 started!-----
+[09-01-2026 11:18:19] Prey moved (9, 4) to (9, 5)!
+[09-01-2026 11:18:19] Player (Predator) moved (7, 3) to (8, 4)!
+[09-01-2026 11:18:19] ApexPredator moved (6, 3) to (7, 4)!
+[09-01-2026 11:18:19] -----Round 22 ended!-----
+
+[09-01-2026 11:18:20] -----Round 23 started!-----
+[09-01-2026 11:18:20] Prey moved (9, 5) to (9, 6)!
+[09-01-2026 11:18:20] Player (Predator) moved (8, 4) to (9, 5)!
+[09-01-2026 11:18:20] ApexPredator moved (7, 4) to (8, 5)!
+[09-01-2026 11:18:20] -----Round 23 ended!-----
+
+[09-01-2026 11:18:21] -----Round 24 started!-----
+[09-01-2026 11:18:21] Prey moved (9, 6) to (8, 7)!
+[09-01-2026 11:18:21] Player (Predator) moved (9, 5) to (9, 6)!
+[09-01-2026 11:18:21] ApexPredator moved (8, 5) to (9, 6)!
+[09-01-2026 11:18:21] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:18:21] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:18:21] -----Round 24 ended!-----
+
+[09-01-2026 11:18:22] -----Round 25 started!-----
+[09-01-2026 11:18:22] Prey moved (8, 7) to (7, 6)!
+[09-01-2026 11:18:22] Player (Predator) moved (7, 9) to (7, 9)!
+[09-01-2026 11:18:22] ApexPredator moved (9, 6) to (7, 6)!
+[09-01-2026 11:18:22] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:18:22] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:18:22] -----Round 25 ended!-----
+
+[09-01-2026 11:18:23] -----Round 26 started!-----
+[09-01-2026 11:18:23] Prey moved (1, 7) to (0, 6)!
+[09-01-2026 11:18:23] Player (Predator) moved (7, 9) to (6, 8)!
+[09-01-2026 11:18:23] ApexPredator moved (7, 6) to (6, 7)!
+[09-01-2026 11:18:23] -----Round 26 ended!-----
+
+[09-01-2026 11:18:24] -----Round 27 started!-----
+[09-01-2026 11:18:24] Prey moved (0, 6) to (0, 5)!
+[09-01-2026 11:18:24] Player (Predator) moved (6, 8) to (4, 8)!
+[09-01-2026 11:18:24] ApexPredator moved (6, 7) to (5, 8)!
+[09-01-2026 11:18:24] -----Round 27 ended!-----
+
+[09-01-2026 11:18:24] -----Round 28 started!-----
+[09-01-2026 11:18:24] Prey moved (0, 5) to (0, 4)!
+[09-01-2026 11:18:24] Player (Predator) moved (4, 8) to (3, 7)!
+[09-01-2026 11:18:24] ApexPredator moved (5, 8) to (4, 7)!
+[09-01-2026 11:18:24] -----Round 28 ended!-----
+
+[09-01-2026 11:18:25] -----Round 29 started!-----
+[09-01-2026 11:18:25] Prey moved (0, 4) to (0, 3)!
+[09-01-2026 11:18:25] Player (Predator) moved (3, 7) to (2, 6)!
+[09-01-2026 11:18:25] ApexPredator moved (4, 7) to (3, 6)!
+[09-01-2026 11:18:25] -----Round 29 ended!-----
+
+[09-01-2026 11:18:26] -----Round 30 started!-----
+[09-01-2026 11:18:26] Prey moved (0, 3) to (1, 2)!
+[09-01-2026 11:18:26] Player (Predator) moved (2, 6) to (2, 4)!
+[09-01-2026 11:18:26] ApexPredator moved (3, 6) to (2, 5)!
+[09-01-2026 11:18:26] -----Round 30 ended!-----
+
+[09-01-2026 11:18:26] -----Round 31 started!-----
+[09-01-2026 11:18:26] Prey moved (1, 2) to (2, 1)!
+[09-01-2026 11:18:26] Player (Predator) moved (2, 4) to (2, 3)!
+[09-01-2026 11:18:26] ApexPredator moved (2, 5) to (2, 3)!
+[09-01-2026 11:18:26] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:18:26] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:18:26] -----Round 31 ended!-----
+
+[09-01-2026 11:18:28] -----Round 32 started!-----
+[09-01-2026 11:18:28] Prey moved (2, 1) to (3, 0)!
+[09-01-2026 11:18:28] Player (Predator) moved (9, 9) to (8, 8)!
+[09-01-2026 11:18:28] ApexPredator moved (2, 3) to (3, 2)!
+[09-01-2026 11:18:28] -----Round 32 ended!-----
+
+[09-01-2026 11:18:28] -----Round 33 started!-----
+[09-01-2026 11:18:28] Prey moved (3, 0) to (4, 0)!
+[09-01-2026 11:18:28] Player (Predator) moved (8, 8) to (8, 6)!
+[09-01-2026 11:18:28] ApexPredator moved (3, 2) to (4, 1)!
+[09-01-2026 11:18:28] -----Round 33 ended!-----
+
+[09-01-2026 11:18:30] -----Round 34 started!-----
+[09-01-2026 11:18:30] Prey moved (4, 0) to (5, 0)!
+[09-01-2026 11:18:30] Player (Predator) moved (8, 6) to (8, 5)!
+[09-01-2026 11:18:30] ApexPredator moved (4, 1) to (5, 0)!
+[09-01-2026 11:18:30] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:18:30] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:18:30] -----Round 34 ended!-----
+
+[09-01-2026 11:18:31] -----Round 35 started!-----
+[09-01-2026 11:18:31] Prey moved (6, 9) to (5, 9)!
+[09-01-2026 11:18:31] Player (Predator) moved (8, 5) to (7, 6)!
+[09-01-2026 11:18:31] ApexPredator moved (5, 0) to (5, 2)!
+[09-01-2026 11:18:31] -----Round 35 ended!-----
+
+[09-01-2026 11:18:32] -----Round 36 started!-----
+[09-01-2026 11:18:32] Prey moved (5, 9) to (4, 9)!
+[09-01-2026 11:18:32] Player (Predator) moved (7, 6) to (6, 7)!
+[09-01-2026 11:18:32] ApexPredator moved (5, 2) to (6, 3)!
+[09-01-2026 11:18:32] -----Round 36 ended!-----
+
+[09-01-2026 11:18:32] -----Round 37 started!-----
+[09-01-2026 11:18:32] Prey moved (4, 9) to (3, 9)!
+[09-01-2026 11:18:32] Player (Predator) moved (6, 7) to (5, 8)!
+[09-01-2026 11:18:32] ApexPredator moved (6, 3) to (5, 4)!
+[09-01-2026 11:18:32] -----Round 37 ended!-----
+
+[09-01-2026 11:18:33] -----Round 38 started!-----
+[09-01-2026 11:18:33] Prey moved (3, 9) to (2, 8)!
+[09-01-2026 11:18:33] Player (Predator) moved (5, 8) to (3, 8)!
+[09-01-2026 11:18:33] ApexPredator moved (5, 4) to (5, 6)!
+[09-01-2026 11:18:33] -----Round 38 ended!-----
+
+[09-01-2026 11:18:34] -----Round 39 started!-----
+[09-01-2026 11:18:34] Prey moved (2, 8) to (1, 7)!
+[09-01-2026 11:18:34] Player (Predator) moved (3, 8) to (2, 7)!
+[09-01-2026 11:18:34] ApexPredator moved (5, 6) to (4, 7)!
+[09-01-2026 11:18:34] -----Round 39 ended!-----
+
+[09-01-2026 11:18:35] -----Round 40 started!-----
+[09-01-2026 11:18:35] Prey moved (1, 7) to (0, 6)!
+[09-01-2026 11:18:35] Player (Predator) moved (2, 7) to (1, 6)!
+[09-01-2026 11:18:35] ApexPredator moved (4, 7) to (3, 6)!
+[09-01-2026 11:18:35] -----Round 40 ended!-----
+
+[09-01-2026 11:18:35] Game Ended! WINNER: ApexPredator by 9 points!
+[09-01-2026 11:18:35] ==========================================
+[09-01-2026 11:20:25] ==========================================
+[09-01-2026 11:20:25] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+
+[09-01-2026 11:20:29] -----Round 1 started!-----
+[09-01-2026 11:20:29] Prey moved (7, 7) to (8, 6)!
+[09-01-2026 11:20:29] Player (Predator) moved (5, 0) to (6, 1)!
+[09-01-2026 11:20:29] ApexPredator moved (4, 6) to (6, 6)!
+[09-01-2026 11:20:29] -----Round 1 ended!-----
+
+[09-01-2026 11:20:31] -----Round 2 started!-----
+[09-01-2026 11:20:31] Prey moved (8, 6) to (9, 5)!
+[09-01-2026 11:20:31] Player (Predator) moved (6, 1) to (7, 2)!
+[09-01-2026 11:20:31] ApexPredator moved (6, 6) to (7, 5)!
+[09-01-2026 11:20:31] -----Round 2 ended!-----
+
+[09-01-2026 11:20:32] -----Round 3 started!-----
+[09-01-2026 11:20:32] Prey moved (9, 5) to (9, 4)!
+[09-01-2026 11:20:32] Player (Predator) moved (7, 2) to (8, 3)!
+[09-01-2026 11:20:32] ApexPredator moved (7, 5) to (8, 4)!
+[09-01-2026 11:20:32] -----Round 3 ended!-----
+
+[09-01-2026 11:20:33] -----Round 4 started!-----
+[09-01-2026 11:20:33] Prey moved (9, 4) to (8, 3)!
+[09-01-2026 11:20:33] Player (Predator) moved (8, 3) to (9, 3)!
+[09-01-2026 11:20:33] ApexPredator moved (8, 4) to (8, 3)!
+[09-01-2026 11:20:33] Apex gained 1 points! (Hunted Prey)
+[09-01-2026 11:20:33] Prey lost -1 points! (Hunted by Apex)
+[09-01-2026 11:20:33] -----Round 4 ended!-----
+
+[09-01-2026 11:20:35] -----Round 5 started!-----
+[09-01-2026 11:20:35] Prey moved (4, 4) to (3, 3)!
+[09-01-2026 11:20:35] Player (Predator) moved (9, 3) to (9, 5)!
+[09-01-2026 11:20:35] ApexPredator moved (8, 3) to (9, 4)!
+[09-01-2026 11:20:35] -----Round 5 ended!-----
+
+[09-01-2026 11:20:36] -----Round 6 started!-----
+[09-01-2026 11:20:36] Prey moved (3, 3) to (2, 2)!
+[09-01-2026 11:20:36] Player (Predator) moved (9, 5) to (8, 6)!
+[09-01-2026 11:20:36] ApexPredator moved (9, 4) to (8, 5)!
+[09-01-2026 11:20:36] -----Round 6 ended!-----
+
+[09-01-2026 11:20:37] -----Round 7 started!-----
+[09-01-2026 11:20:37] Prey moved (2, 2) to (1, 1)!
+[09-01-2026 11:20:37] Player (Predator) moved (8, 6) to (7, 5)!
+[09-01-2026 11:20:37] ApexPredator moved (8, 5) to (7, 5)!
+[09-01-2026 11:20:37] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:20:37] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:20:37] -----Round 7 ended!-----
+
+[09-01-2026 11:20:41] -----Round 8 started!-----
+[09-01-2026 11:20:41] Prey moved (1, 1) to (0, 0)!
+[09-01-2026 11:20:41] Player (Predator) moved (6, 9) to (5, 8)!
+[09-01-2026 11:20:41] ApexPredator moved (7, 5) to (6, 6)!
+[09-01-2026 11:20:41] -----Round 8 ended!-----
+
+[09-01-2026 11:20:42] -----Round 9 started!-----
+[09-01-2026 11:20:42] Prey moved (0, 0) to (0, 0)!
+[09-01-2026 11:20:42] Player (Predator) moved (5, 8) to (4, 7)!
+[09-01-2026 11:20:42] ApexPredator moved (6, 6) to (5, 7)!
+[09-01-2026 11:20:42] -----Round 9 ended!-----
+
+[09-01-2026 11:20:42] -----Round 10 started!-----
+[09-01-2026 11:20:42] Prey moved (0, 0) to (0, 0)!
+[09-01-2026 11:20:42] Player (Predator) moved (4, 7) to (3, 6)!
+[09-01-2026 11:20:42] ApexPredator moved (5, 7) to (4, 6)!
+[09-01-2026 11:20:42] -----Round 10 ended!-----
+
+[09-01-2026 11:20:43] -----Round 11 started!-----
+[09-01-2026 11:20:43] Prey moved (0, 0) to (1, 0)!
+[09-01-2026 11:20:43] Player (Predator) moved (3, 6) to (2, 5)!
+[09-01-2026 11:20:43] ApexPredator moved (4, 6) to (3, 5)!
+[09-01-2026 11:20:43] -----Round 11 ended!-----
+
+[09-01-2026 11:20:43] Game Ended! WINNER: ApexPredator by 2 points!
+[09-01-2026 11:20:43] ==========================================
+[09-01-2026 11:24:25] ==========================================
+[09-01-2026 11:24:25] New Game: Era: Past, TotalRounds: 11, User Role: Predator
+
+[09-01-2026 11:24:26] -----Round 1 started!-----
+[09-01-2026 11:24:26] Prey moved (9, 7) to (9, 6)!
+[09-01-2026 11:24:26] Player (Predator) moved (1, 8) to (1, 8)!
+[09-01-2026 11:24:26] ApexPredator moved (0, 1) to (0, 3)!
+[09-01-2026 11:24:26] -----Round 1 ended!-----
+
+[09-01-2026 11:24:27] -----Round 2 started!-----
+[09-01-2026 11:24:27] Prey moved (9, 6) to (9, 5)!
+[09-01-2026 11:24:27] Player (Predator) moved (1, 8) to (1, 8)!
+[09-01-2026 11:24:27] ApexPredator moved (0, 3) to (1, 4)!
+[09-01-2026 11:24:27] -----Round 2 ended!-----
+
+[09-01-2026 11:24:27] -----Round 3 started!-----
+[09-01-2026 11:24:27] Prey moved (9, 5) to (9, 4)!
+[09-01-2026 11:24:27] Player (Predator) moved (1, 8) to (1, 8)!
+[09-01-2026 11:24:27] ApexPredator moved (1, 4) to (1, 5)!
+[09-01-2026 11:24:27] -----Round 3 ended!-----
+
+[09-01-2026 11:24:29] -----Round 4 started!-----
+[09-01-2026 11:24:29] Prey moved (9, 4) to (9, 3)!
+[09-01-2026 11:24:29] Player (Predator) moved (1, 8) to (1, 8)!
+[09-01-2026 11:24:29] ApexPredator moved (1, 5) to (1, 7)!
+[09-01-2026 11:24:29] -----Round 4 ended!-----
+
+[09-01-2026 11:24:29] -----Round 5 started!-----
+[09-01-2026 11:24:29] Prey moved (9, 3) to (9, 2)!
+[09-01-2026 11:24:29] Player (Predator) moved (1, 8) to (1, 8)!
+[09-01-2026 11:24:29] ApexPredator moved (1, 7) to (1, 8)!
+[09-01-2026 11:24:29] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:24:29] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:24:29] -----Round 5 ended!-----
+
+[09-01-2026 11:24:30] -----Round 6 started!-----
+[09-01-2026 11:24:30] Prey moved (9, 2) to (9, 1)!
+[09-01-2026 11:24:30] Player (Predator) moved (6, 9) to (7, 9)!
+[09-01-2026 11:24:30] ApexPredator moved (1, 8) to (2, 9)!
+[09-01-2026 11:24:30] -----Round 6 ended!-----
+
+[09-01-2026 11:24:30] -----Round 7 started!-----
+[09-01-2026 11:24:30] Prey moved (9, 1) to (8, 0)!
+[09-01-2026 11:24:30] Player (Predator) moved (7, 9) to (7, 9)!
+[09-01-2026 11:24:30] ApexPredator moved (2, 9) to (4, 9)!
+[09-01-2026 11:24:30] -----Round 7 ended!-----
+
+[09-01-2026 11:24:30] -----Round 8 started!-----
+[09-01-2026 11:24:30] Prey moved (8, 0) to (7, 0)!
+[09-01-2026 11:24:30] Player (Predator) moved (7, 9) to (7, 9)!
+[09-01-2026 11:24:30] ApexPredator moved (4, 9) to (5, 9)!
+[09-01-2026 11:24:30] -----Round 8 ended!-----
+
+[09-01-2026 11:24:31] -----Round 9 started!-----
+[09-01-2026 11:24:31] Prey moved (7, 0) to (7, 0)!
+[09-01-2026 11:24:31] Player (Predator) moved (7, 9) to (7, 9)!
+[09-01-2026 11:24:31] ApexPredator moved (5, 9) to (6, 9)!
+[09-01-2026 11:24:31] -----Round 9 ended!-----
+
+[09-01-2026 11:24:31] -----Round 10 started!-----
+[09-01-2026 11:24:31] Prey moved (7, 0) to (7, 0)!
+[09-01-2026 11:24:31] Player (Predator) moved (7, 9) to (7, 9)!
+[09-01-2026 11:24:31] ApexPredator moved (6, 9) to (7, 9)!
+[09-01-2026 11:24:31] Apex gained 1 points! (Hunted Predator)
+[09-01-2026 11:24:31] Predator lost -1 points! (Hunted by Apex)
+[09-01-2026 11:24:31] -----Round 10 ended!-----
+
+[09-01-2026 11:24:32] -----Round 11 started!-----
+[09-01-2026 11:24:32] Prey moved (7, 0) to (8, 1)!
+[09-01-2026 11:24:32] Player (Predator) moved (4, 2) to (4, 2)!
+[09-01-2026 11:24:32] ApexPredator moved (7, 9) to (7, 7)!
+[09-01-2026 11:24:32] -----Round 11 ended!-----
+
+[09-01-2026 11:24:32] Game Ended! WINNER: ApexPredator by 2 points!
+[09-01-2026 11:24:32] ==========================================
